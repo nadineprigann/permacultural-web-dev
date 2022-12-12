@@ -1,0 +1,68 @@
+name: vue-press
+
+env:
+  working-directory: ./docs
+  server: ftpes://gutenberg.metanet.ch:21
+  # port:
+  username:
+    fpwd
+    # remote-root:
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "docs/**"
+      - ".github/workflows/deploy.yml"
+
+jobs:
+  build-and-deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        # with:
+        #   fetch-depth: 2
+
+      # - name: Use Node.js
+      #   uses: actions/setup-node@v2
+      #   with:
+      #     node-version: "14"
+
+      # - name: Install dependencies
+      #   run: npm i
+      #   working-directory: ${{ env.working-directory }}
+
+      - name: Build project
+        run: npm run build
+        working-directory: ${{ env.working-directory }}
+
+      - name: Deploy project (FTP)
+        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+        with:
+          ftp-server: ${{ env.server }}
+          ftp-username: ${{ env.username }}
+          local-dir: docs/.vuepress/dist
+          ftp-password: ${{ secrets.FRONTEND_PASSWORD }}
+          # git-ftp-args: --insecure --remote-root ${{ env.remote-root }}
+          git-ftp-args: --insecure
+# name: Build and Deploy
+# on: [push]
+# jobs:
+#   build-and-deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@master
+
+#       - name: vuepress-deploy
+#         uses: jenkey2011/vuepress-deploy@master
+#         env:
+#           ACCESS_TOKEN: ${{ secrets.VUEPRESS_ACCESS_TOKEN }}
+#           TARGET_REPO: nadineprigann/permacultural-web-dev
+#           TARGET_BRANCH: master
+#           BUILD_SCRIPT: vuepress build src
+#           BUILD_DIR: docs/.vuepress/dist
+#           CNAME: https://dev.nadineprigann.de
