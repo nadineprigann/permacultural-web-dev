@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Permacultural Web Development',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -28,36 +28,104 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
+    displayAllHeaders: false,
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Process',
+        link: '/process/'
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Workflow',
+        link: '/workflow/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'GitHub',
+        link: 'https://github.com/nadineprigann'
+      },
+      {
+        text: 'Author',
+        link: 'https://nadineprigann.de'
+      },
+      {
+        text: 'Language',
+        ariaLabel: 'Language Menu',
+        items: [
+          { text: 'EN', link: '/language/english/' },
+          { text: 'DE', link: '/language/german/' }
+        ]
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/process/': [
         {
-          title: 'Guide',
+          title: 'Process Model',
           collapsable: false,
+          // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
             '',
-            'using-vue',
+            {
+              title: 'Observe',
+              collapsable: false,
+              // sidebarDepth: 2,    // optional, defaults to 1
+              children: ['/process/observe/9-ways.md', '/process/observe/user-interview.md', '/process/observe/inventory.md'],
+            },
+            {
+              title: 'Analyze',
+              collapsable: false,
+              // sidebarDepth: 2,    // optional, defaults to 1
+              children: ['/process/analysis/io-analysis.md'],
+            },
+            {
+              title: 'Design',
+              collapsable: false,
+              // sidebarDepth: 2,    // optional, defaults to 1
+              // children: ['/process/analysis/io-analysis.md'],
+            },
+            {
+              title: 'Realize',
+              collapsable: false,
+              // sidebarDepth: 2,    // optional, defaults to 1
+              children: ['/process/realization/intro.md', '/process/realization/consulting.md'],
+            },
+            {
+              title: 'Celebrate',
+              collapsable: false,
+              // sidebarDepth: 2,    // optional, defaults to 1
+              // children: ['/process/analysis/io-analysis.md'],
+            },
+            // 'consulting',
+            // 'design',
+            // 'backend',
+            // 'frontend',
           ]
         }
       ],
-    }
+      '/workflow/': [
+        {
+          title: 'Workflow',
+          collapsable: false,
+          // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
+          children: [
+            '',
+            'process',
+            {
+              title: 'In-depth workflows',
+              collapsable: false,
+              sidebarDepth: 2,    // optional, defaults to 1
+              children: ['/workflow/detailed/consulting.md', '/workflow/detailed/design.md', '/workflow/detailed/backend.md', '/workflow/detailed/frontend.md'],
+            },
+            // 'consulting',
+            // 'design',
+            // 'backend',
+            // 'frontend',
+          ]
+        }
+      ],
+    },
   },
 
   /**
@@ -66,5 +134,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    '@vuepress/register-components',
   ]
 }
