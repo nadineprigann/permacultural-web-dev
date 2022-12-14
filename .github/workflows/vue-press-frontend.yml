@@ -1,0 +1,53 @@
+name: vue-press frontend
+
+env:
+  working-directory: ./docs
+  # add server adress without protocol + port
+  server: gutenberg.metanet.ch
+  # port:
+  # protocol:
+  username: fpwd
+  # only provide if ftp-user has access to main folder of domain
+  # remote-root:
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      # - "frontend/**"
+      - ".github/workflows/vue-press-frontend.yml"
+
+jobs:
+  build-and-deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm i
+        working-directory: ${{ env.working-directory }}
+
+      - name: Build project
+        run: npm run build
+        working-directory: ${{ env.working-directory }}
+
+      # https://github.com/SamKirkland/FTP-Deploy-Action
+      - name: Deploy project via FTP to custom server
+        uses: SamKirkland/FTP-Deploy-Action@4.3.2
+        with:
+          server: ${{ env.server }}
+          # port: ${{ env.port }}
+          # protocol: ${{ env.protocol }}
+          server-dir: ${{ env.remote-root }}
+          username: ${{ env.username }}
+          local-dir: docs/src/.vuepress/dist/
+          password: ${{ secrets.FRONTEND_PASSWORD }}
