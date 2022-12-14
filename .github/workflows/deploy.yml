@@ -1,7 +1,7 @@
 name: Frontend
 
 env:
-  # working-directory: ./
+  working-directory: ./docs
   # ohne protocol einfügen
   server: gutenberg.metanet.ch
   # port:
@@ -33,11 +33,11 @@ jobs:
 
       - name: Install dependencies
         run: npm i
-        # working-directory: ${{ env.working-directory }}
+        working-directory: ${{ env.working-directory }}
 
       - name: Build project
         run: npm run build
-        # working-directory: ${{ env.working-directory }}
+        working-directory: ${{ env.working-directory }}
 
       # https://github.com/SamKirkland/FTP-Deploy-Action
       - name: Deploy project (FTP)
