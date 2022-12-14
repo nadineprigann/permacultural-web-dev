@@ -1,19 +1,20 @@
-name: vue-press
+name: Frontend
 
 env:
-  working-directory: ./docs
-  server: ftpes://gutenberg.metanet.ch:21
+  # working-directory: ./
+  # ohne protocol einfügen
+  server: gutenberg.metanet.ch
   # port:
-  username:
-    fpwd
-    # remote-root:
+  # protocol:
+  username: fpwd
+  # remote-root: nur angeben, wenn kein spez. userzugriff für domain
 
 on:
   push:
     branches:
       - master
     paths:
-      - "docs/**"
+      # - "frontend/**"
       - ".github/workflows/deploy.yml"
 
 jobs:
@@ -21,33 +22,84 @@ jobs:
     name: Build and deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@master
-        # with:
-        #   fetch-depth: 2
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
 
-      # - name: Use Node.js
-      #   uses: actions/setup-node@v2
-      #   with:
-      #     node-version: "14"
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
 
-      # - name: Install dependencies
-      #   run: npm i
-      #   working-directory: ${{ env.working-directory }}
+      - name: Install dependencies
+        run: npm i
+        # working-directory: ${{ env.working-directory }}
 
       - name: Build project
         run: npm run build
-        working-directory: ${{ env.working-directory }}
+        # working-directory: ${{ env.working-directory }}
 
+      # https://github.com/SamKirkland/FTP-Deploy-Action
       - name: Deploy project (FTP)
-        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+        uses: SamKirkland/FTP-Deploy-Action@4.3.2
         with:
-          ftp-server: ${{ env.server }}
-          ftp-username: ${{ env.username }}
-          local-dir: docs/.vuepress/dist
-          ftp-password: ${{ secrets.FRONTEND_PASSWORD }}
-          # git-ftp-args: --insecure --remote-root ${{ env.remote-root }}
-          git-ftp-args: --insecure
+          server: ${{ env.server }}
+          # port: ${{ env.port }}
+          # protocol: ${{ env.protocol }}
+          server-dir: ${{ env.remote-root }}
+          username: ${{ env.username }}
+          local-dir: docs/src/.vuepress/dist/
+          password: ${{ secrets.FRONTEND_PASSWORD }}
+# name: vue-press
+
+# env:
+#   working-directory: ./docs
+#   server: ftpes://gutenberg.metanet.ch:21
+#   # port:
+#   username:
+#     fpwd
+#     # remote-root:
+
+# on:
+#   push:
+#     branches:
+#       - master
+#     paths:
+#       - "docs/**"
+#       - ".github/workflows/deploy.yml"
+
+# jobs:
+#   build-and-deploy:
+#     name: Build and deploy
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@master
+#         # with:
+#         #   fetch-depth: 2
+
+#       - name: Use Node.js
+#         uses: actions/setup-node@v2
+#         with:
+#           node-version: "14"
+
+#       - name: Install dependencies
+#         run: npm i
+#         working-directory: ${{ env.working-directory }}
+
+#       - name: Build project
+#         run: npm run build
+#         working-directory: ${{ env.working-directory }}
+
+#       - name: Deploy project (FTP)
+#         uses: SamKirkland/FTP-Deploy-Action@3.0.0
+#         with:
+#           ftp-server: ${{ env.server }}
+#           ftp-username: ${{ env.username }}
+#           local-dir: docs/.vuepress/dist
+#           ftp-password: ${{ secrets.FRONTEND_PASSWORD }}
+#           # git-ftp-args: --insecure --remote-root ${{ env.remote-root }}
+#           git-ftp-args: --insecure
 # name: Build and Deploy
 # on: [push]
 # jobs:
