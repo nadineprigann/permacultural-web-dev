@@ -1,6 +1,8 @@
 # Process
 
-Der Workflow, der als Ergebnis von Beobachtung und Analyse des aktuellen Workflows meiner Angestelltentätigkeit als Design des Projektes gesehen werden kann, wird nun in den folgenden Kapiteln eingehend vorgestellt. Für mich ging mit dem Design des Workflows auch die Fragen der Repräsentation einher: wo wird dieser Workflow festgehalten? Wie wird er visuell dargestellt? Welche Aufgaben hat diese Visualisierung? Kann ich die reine Visualisierung mit einem Mehrwert verknüpfen bspw. eine Art Project Management Tool daraus machen?
+Der Workflow, der als Ergebnis von Beobachtung und Analyse des aktuellen Workflows meiner Angestelltentätigkeit als Design des Projektes gesehen werden kann, wird nun in den folgenden Kapiteln eingehend vorgestellt. Für mich ging mit dem Design des Workflows auch die Fragen der Repräsentation einher: wo wird dieser Workflow festgehalten? Wie wird er visuell dargestellt? Welche Aufgaben hat diese Visualisierung? Kann ich die reine Visualisierung mit einem Mehrwert verknüpfen?
+
+Das Ergebnis dieser Fragen ist dieser[Workflow](https://trello.com/w/userworkspaceaa1c57b2e62ef5488e9680dea9d99fce), der gleichzeitig als Project Management Prozess verstanden und benutzt werden kann.
 
 Schwachstellen des prev workflows: wir wissen nicht, wo wir stehen? wer ist wie weit? feedback hat keinen zentralen Ort. Kommunikation zu tendious.
 
