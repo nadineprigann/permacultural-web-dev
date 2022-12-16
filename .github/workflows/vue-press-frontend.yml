@@ -15,7 +15,7 @@ on:
     branches:
       - master
     paths:
-      # - "frontend/**"
+      - "docs/**"
       - ".github/workflows/vue-press-frontend.yml"
 
 jobs:
