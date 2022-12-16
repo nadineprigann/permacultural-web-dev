@@ -4,7 +4,11 @@ Vue.js, modulare Komponenten, ...
 
 ##  Strukturelle Analyse
 
-Auf Grundlage des Designs und Backends wird erst eine Skizze der Komponentenstruktur erstellt. Hier wird evaluiert, welche Komponenten wie wiederverwendet werden können und wie diese Komponenten untereinander kommunizieren.
+Auf Grundlage des Designs und Backends wird erst eine Skizze der Komponentenstruktur erstellt. Hier wird evaluiert, welche Komponenten wie abufgebaut werden müssen, damit sie an so vielen Orten wie möglich wiederverwendet werden können. Wichtig ist hierbei der Blick auf die funktionelle Umsetzung. Wenn diese ähnlich oder gleich funktioniert, ist es wahrscheinlich, dass eine Komponente erstellt werdne kann, die an zwei unterschiedlichen Stellen im Code benutzt werden kann. Gestalterische Unterschiede können meistens via props gelöst werden. Sollten die Unterschiede aber einen gewissen Komplexitätsgrad aufweisen, sind separate Komponenten empfehlenswert. Getrennte Komponenten sind auf jeden Fall zu verwenden bei:
+
+- unterschiedlicher Funktion
+- grundverschiedenes Design
+- komplexe Transitions
 
 ##  Datenabruf
 
