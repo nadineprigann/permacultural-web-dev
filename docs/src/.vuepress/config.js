@@ -111,7 +111,6 @@ module.exports = {
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
             '',
-            'process',
             {
               title: 'In-depth workflows',
               collapsable: false,
