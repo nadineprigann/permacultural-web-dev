@@ -1,4 +1,4 @@
-name: vue-press
+name: vue-press frontend
 
 env:
   working-directory: ./docs
