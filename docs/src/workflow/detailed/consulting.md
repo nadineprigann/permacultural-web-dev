@@ -4,7 +4,7 @@ Die erste Säule Consulting hat zum Ziel, eine genaue Vorstellung und Zieldefini
 
 Hierbei ist es meiner Ansicht nach besonders wichtig, die Bedürfnisse und Anliegen, aber auch die Ressourcen und Limits der Kunden herauszuarbeiten, denn nur, wenn diese realistisch eingeschätzt und das Produkt dementsprechend entwickelt wird, kann dieses nachhaltig eingesetzt werden.
 
-##  Initial Interview
+##  [Initial Interview](https://trello.com/c/SFCWeuHm)
 
 Anfangs steht immer ein Erstgespräch, in dem die Vorstellungen von Umfang, Design, Budget und Wünschen einmal festgehalten werden. Mithilfe des eines [Fragenkataloges](https://trello.com/c/SFCWeuHm) kann ich recht genau einschätzen, wo wir in diesem Findungsprozess stehen. Diese sind teilweise abgeleitet und inspiriert vom [Fragebogen für Permakulturberatungen im SoCoNet](https://soconet.coyocloud.com/files/7fec2411-407c-40ae-b1c7-25d372f89e0d/8307cce9-a333-45b2-b3e9-53099cbb9ffb/Fragebogen%20zur%20Permakultur-Beratung%202014%20pdf). Die Liste kann und wird sich im Laufe der Jahre verändern.
 
