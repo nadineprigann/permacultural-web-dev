@@ -6,28 +6,7 @@ Hierbei ist es meiner Ansicht nach besonders wichtig, die Bedürfnisse und Anlie
 
 ##  Initial Interview
 
-Anfangs steht immer ein Erstgespräch, in dem die Vorstellungen von Umfang, Design, Budget und Wünschen einmal festgehalten werden. Mithilfe des Fragenkataloges, die ich mir auf meiner Trello-Karte "Initial Interview" aufgeschrieben habe, kann ich recht genau einschätzen, wo wir in diesem Findungsprozess stehen. Diese sind teilweise abgeleitet und inspiriert vom [Fragebogen für Permakulturberatungen im SoCoNet](https://soconet.coyocloud.com/files/7fec2411-407c-40ae-b1c7-25d372f89e0d/8307cce9-a333-45b2-b3e9-53099cbb9ffb/Fragebogen%20zur%20Permakultur-Beratung%202014%20pdf).
-
-Hier einmal die Fragen, die ich bis jetzt gesammelt habe. Die Liste kann und wird sich im Laufe der Jahre verändern.
-
-- what do you want the digital product for? what do you wanna do with it? history, process until today, ... ?
-- what is the goal of your digital product?
-- what do you want to communicate?
-- to whom? who is your audience?
-- do they have any specific impairments / needs?
-- what kind of information do you want to display?
-- what kind of information do you actually have (already created, already on an existing site)?
-- do you have a current digital representation?
-- what is your experience with it? downsides, critics, upsides, missing or too much content?
-- if content needs to be created: do you have content creators on hand?
-- how much do you want to spend on the creation; timewise and budgetwise?
-- how many hours do you want to spend time on maintaining your digital product per week?
-- at which interval is maintenance necessary (derived from desired information to display)?
-- who will do this?
-- is this person / group skilled enough to do so?
-- what is your time and cost limit for this maintenance?
-- what is your time and cost limit for the product generally?
-- are there any self-publishing tools to meet these needs ([Medium](https://medium.com/), [Webflow](https://webflow.com/), … )
+Anfangs steht immer ein Erstgespräch, in dem die Vorstellungen von Umfang, Design, Budget und Wünschen einmal festgehalten werden. Mithilfe des eines [Fragenkataloges](https://trello.com/c/SFCWeuHm) kann ich recht genau einschätzen, wo wir in diesem Findungsprozess stehen. Diese sind teilweise abgeleitet und inspiriert vom [Fragebogen für Permakulturberatungen im SoCoNet](https://soconet.coyocloud.com/files/7fec2411-407c-40ae-b1c7-25d372f89e0d/8307cce9-a333-45b2-b3e9-53099cbb9ffb/Fragebogen%20zur%20Permakultur-Beratung%202014%20pdf). Die Liste kann und wird sich im Laufe der Jahre verändern.
 
 <!-- <c-text-block :item="'Dieser Fragebogen soll als digitales Formular in dieser Dokumentation auf meiner Webseite frei zugänglich gemacht werden. Hierdurch kann ich den Auftraggebenden einfach einen Link senden, den sie ausfüllen und wir uns beide vor dem Erstgespräch auf dieses vorbereiten können. Der PDF-Versand via Mail entfällt dadurch.'" /> -->
 
