@@ -47,7 +47,7 @@ module.exports = {
         link: 'https://github.com/nadineprigann'
       },
       {
-        text: 'Author',
+        text: 'Autor',
         link: 'https://nadineprigann.de'
       },
       {
@@ -62,11 +62,10 @@ module.exports = {
     sidebar: {
       '/process/': [
         {
-          title: 'Process Model',
+          title: 'Prozess',
           collapsable: false,
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
-            '',
             {
               title: 'Observe',
               collapsable: false,
@@ -83,13 +82,13 @@ module.exports = {
               title: 'Design',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              // children: ['/process/analysis/io-analysis.md'],
+              children: ['/process/design/process-model.md', '/process/design/principle-sets.md'],
             },
             {
               title: 'Realize',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/realization/intro.md', '/process/realization/consulting.md'],
+              children: ['/process/realization/intro.md', '/process/realization/consulting.md', '/process/realization/design.md'],
             },
             {
               title: 'Celebrate',

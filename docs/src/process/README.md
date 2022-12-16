@@ -1,4 +1,3 @@
-# Introduction of custom model, a mixture of BADUZ, Double Diamond and OBREDIMET
+## Prozess der Entwicklung eines Workflows für permakulturelle Webentwicklung
 
-short description, how is it used? for which goal? which alternatives are there?
-image of horizontal process model, scanned, horizontal scrollable, as SVG if possible
+Wo sind aktuell Probleme? Warum möchte ich das tun? Was erhoffe ich mir von der Anwendung der Permakultur auf Webentwicklung. Kurzer Ausblick auf Kapitel.

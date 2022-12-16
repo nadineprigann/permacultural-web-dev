@@ -44,6 +44,12 @@ for coloring SVG's use the fill-property or CSS filters -> [CSS Filter Generator
 
 When frontend to 60 to 95% done, publish to dev subdomain to enable the client to see changes + fill content
 
+Research for sustainable web hosters in Germany
+
+Most of the time, there will already be a webspace in use but most likely not a sustainable one. There are some criteria that have to be met in order for the hoster to be classified as sustainable. I found the ones from [Utopia](https://utopia.de/ratgeber/gruenes-webhosting-oekostrom/) to be the most comprehensive collection of these. Based on their list and criteria, my finalists were [BioHost](https://www.biohost.de/) and [GreenSta](https://ssl.greensta.de/). Another good option is [Infomaniak](https://www.infomaniak.com/de/hosting/web-und-mail/webhosting).
+
+This list will be updated from time to time. If you know another one that might fit, please let me know!
+
 ## Optimierung
 
 ## Finale Abnahme
