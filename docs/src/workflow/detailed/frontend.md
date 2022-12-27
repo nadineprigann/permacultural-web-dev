@@ -68,11 +68,13 @@ Um eine Live-Beurteilung zu ermöglichen, wird das Projekt auf einer Subdomain, 
 
 ## Optimierung
 
-Die Ergebnisse der Evaluation des Zwischenstandes werden in diesem Schritt umgesetzt. Auch Optimierungen der eingebundenen Medien, bspw. das [`sizes`-Atrribut](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes), zählen hierzu.
+Die Ergebnisse der Evaluation des Zwischenstandes werden in diesem Schritt umgesetzt. Auch Optimierungen der eingebundenen Medien, bspw. das [`sizes`-Atrribut](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes), zählen hierzu sowie, falls nötig, eine grundlegende [SEO-Optimierung](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb).
 
 ## Finale Abnahme
 
 Wenn alle Schritte von allen Beteiligten abgenommen sind, kann die Seite final auf ihre Zieldomain geschalten werden.
+
+Das Verzeichnis auf [GitHub](https://github.com/), auf dem der Code gespeichert wird, sollte nun, basierend auf den ethischen Grundlagen dieses Workflows, öffentlich zuägnglich gemacht und so als [OpenSource-Projekt](https://opensource.com/resources/what-open-source) klassifiziert werden. Es muss daher nun mit einer Lizenz ausgestattet werden. Dies ist wichtig, damit andere Entwickelnde im Rahmen der OpenSource-Ethik rechtlich einwandfreie Projekte verwenden und einbinden können. Wenn das nicht geschieht, hat das rechtliche Konsequenzen, denen man sich bwwusst sein sollte. Passende Formate sind [GNP GPLv3](https://choosealicense.com/licenses/gpl-3.0/) und die [MIT](https://choosealicense.com/licenses/mit/)-Lizenz. Weitere Infos und Lizenzen können unter [www.choosealicense.com](https://choosealicense.com/) eingesehen werden.
 
 ## Bugfixing
 
