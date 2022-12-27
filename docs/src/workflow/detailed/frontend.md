@@ -74,6 +74,8 @@ Die Ergebnisse der Evaluation des Zwischenstandes werden in diesem Schritt umges
 
 Wenn alle Schritte von allen Beteiligten abgenommen sind, kann die Seite final auf ihre Zieldomain geschalten werden.
 
+Das Verzeichnis auf [GitHub](https://github.com/), auf dem der Code gespeichert wird, sollte nun, basierend auf den ethischen Grundlagen dieses Workflows, öffentlich zuägnglich gemacht und so als [OpenSource-Projekt](https://opensource.com/resources/what-open-source) klassifiziert werden. Es muss daher nun mit einer Lizenz ausgestattet werden. Dies ist wichtig, damit andere Entwickelnde im Rahmen der OpenSource-Ethik rechtlich einwandfreie Projekte verwenden und einbinden können. Wenn das nicht geschieht, hat das rechtliche Konsequenzen, denen man sich bwwusst sein sollte. Passende Formate sind [GNP GPLv3](https://choosealicense.com/licenses/gpl-3.0/) und die [MIT](https://choosealicense.com/licenses/mit/)-Lizenz. Weitere Infos und Lizenzen können unter [www.choosealicense.com](https://choosealicense.com/) eingesehen werden.
+
 ## Bugfixing
 
 Die ersten zwei Wochen nach dem Launch sind eine leicht vulnerable Zeit, in der immer wieder unerwartete Fehler auftreten oder Anpassungen notwendig werden, die vorher noch nicht ersichtlich waren. Dies können zum Beispiel Dinge wie Umbrüche bei langen Texten, unerwartet lange Ladezeiten bei viel Inhalt, Datumsformatierung etc. sein. Deshalb ist es wichtig, dies bei der Projektplanung der Anschlussprojekte im Hinterkopf zu behalten und etwas Puffer für diese Phase einzubauen.
