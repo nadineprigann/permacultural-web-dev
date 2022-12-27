@@ -68,7 +68,7 @@ Um eine Live-Beurteilung zu ermöglichen, wird das Projekt auf einer Subdomain, 
 
 ## Optimierung
 
-Die Ergebnisse der Evaluation des Zwischenstandes werden in diesem Schritt umgesetzt. Auch Optimierungen der eingebundenen Medien, bspw. das [`sizes`-Atrribut](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes), zählen hierzu.
+Die Ergebnisse der Evaluation des Zwischenstandes werden in diesem Schritt umgesetzt. Auch Optimierungen der eingebundenen Medien, bspw. das [`sizes`-Atrribut](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes), zählen hierzu sowie, falls nötig, eine grundlegende [SEO-Optimierung](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb).
 
 ## Finale Abnahme
 
