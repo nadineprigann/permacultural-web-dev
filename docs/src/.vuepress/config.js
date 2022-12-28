@@ -82,7 +82,7 @@ module.exports = {
               title: 'Design',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/design/inventory.md', '/process/design/process-model.md', '/process/design/principle-sets.md'],
+              children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/principle-sets.md'],
             },
             {
               title: 'Realize',
@@ -90,12 +90,12 @@ module.exports = {
               // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/realization/intro.md', '/process/realization/consulting.md', '/process/realization/design.md'],
             },
-            {
-              title: 'Celebrate',
-              collapsable: false,
-              // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/celebrate/io-analysis.md'],
-            },
+            // {
+            //   title: 'Celebrate',
+            //   collapsable: false,
+            //   // sidebarDepth: 2,    // optional, defaults to 1
+            //   children: ['/process/celebrate/io-analysis.md'],
+            // },
             {
               title: 'Tweak',
               collapsable: false,
