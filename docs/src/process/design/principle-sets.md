@@ -1,4 +1,4 @@
-###  Prinzipiensets
+#  Prinzipiensets
 
 Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den 12 Prinzipien von David Holmgren und entdeckte so bereits recht früh, dass mein Projekt davon profitieren kann, wenn ich das Prinzip der Ernte auf mein Projekt anpasse.
 

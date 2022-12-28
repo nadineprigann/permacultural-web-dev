@@ -70,19 +70,19 @@ module.exports = {
               title: 'Observe',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/observe/9-ways.md', '/process/observe/user-interview.md', '/process/observe/inventory.md'],
+              children: ['/process/observe/objectives-limits.md', '/process/observe/objectives.md', '/process/observe/9-ways.md', '/process/observe/user-interview.md', '/process/observe/inventory.md'],
             },
             {
               title: 'Analyze',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/analysis/io-analysis.md'],
+              children: ['/process/analysis/io-analysis.md', '/process/analysis/patterns.md'],
             },
             {
               title: 'Design',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/design/process-model.md', '/process/design/principle-sets.md'],
+              children: ['/process/design/inventory.md', '/process/design/process-model.md', '/process/design/principle-sets.md'],
             },
             {
               title: 'Realize',
@@ -94,7 +94,13 @@ module.exports = {
               title: 'Celebrate',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              // children: ['/process/analysis/io-analysis.md'],
+              children: ['/process/celebrate/io-analysis.md'],
+            },
+            {
+              title: 'Tweak',
+              collapsable: false,
+              // sidebarDepth: 2,    // optional, defaults to 1
+              children: ['/process/tweaking/intro.md'],
             },
             // 'consulting',
             // 'design',
