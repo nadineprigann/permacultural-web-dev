@@ -75,4 +75,4 @@ Diese Überlegungen zusammen mit den Ergbnissen der Analysen führten mich zum P
 
 Das Ergebnis dieser Fragen ist dieser[Workflow](https://trello.com/w/userworkspaceaa1c57b2e62ef5488e9680dea9d99fce), der gleichzeitig als Project Management Prozess verstanden und benutzt werden kann.
 
-Solltest du Anmerkugen, Kritik oder Ideen haben, die du teilen möchtest, melde dich bitte gerne unter [news@nadineprigann.de](mail.to:news@nadineprigann.de). Ich freue mich immer auf Austausch und Kollaboration, denn dadurch kann ein resilienteres Projekt entstehen.
+Solltest du Anmerkugen, Kritik oder Ideen haben, die du teilen möchtest, melde dich bitte gerne unter [dev@nadineprigann.de](mail.to:dev@nadineprigann.de). Ich freue mich immer auf Austausch und Kollaboration, denn dadurch kann ein resilienteres Projekt entstehen.
