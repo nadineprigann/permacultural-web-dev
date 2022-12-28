@@ -1,4 +1,4 @@
-## Design
+# Design
 
 Hier wird die Realisierung des Designs des Webprojektes behandelt. Es werden im weiteren Verlauf stichpropbenartig Zwischenergebnisse der wichtigsten Prozesschritte gezeigt. Der detaillierte Workflow ist unter [Design in der Sektion Workflow](/src/workflow/detailed/design.md) einsehbar.
 

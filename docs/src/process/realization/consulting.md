@@ -1,6 +1,6 @@
-## Consulting
+# Consulting
 
-### Initial Call
+## Initial Call
 
 In diesem ersten Gespräch ging es darum, zu klären, welche Projektideen vorhanden sind, welche Idee wie und wann umgesetzt werden soll und wo die Prioritäten liegen. Weiter wurden Einschränkungen, Ressourcen und Bedürfnisse geklärt. Wir haben zwei separate Projekte mit unterschiedlichen Zielen identifiziert. Der Klarheit halber werde ich nur das Projekt skizzieren, welches für den Umsetzungsschritt des Basisjahrs relevant ist: eine Website für die Permakultur-Designerin Nesrin Caglak, die eine Startseite mit einer Illustration eines Beinwells und ca. 4 Unterseiten zu einzelnen Themenbereichen hat. Diese sollen jeweils Text und Bilder enthalten.
 

@@ -1,0 +1,21 @@
+# Mit Mustern gestalten
+
+Es sind so viele Spiralen und Fibonacci-Folgen zu sehen, dass ich sie anfangs gar nicht gesehen habe. Ich habe erst versucht, Muster, die mich ansprechen, auf mein Projekt anzuwenden. Könnte denn bspw. ne Welle zu einer Dynamik oder einem Gefühl für einen Vorgang oder so passen? Was passiert immer wieder, zeitlich in regelmässigen Abständen oder jedes Mal, wenn ich bei einem Projekt an diesen Punkt komme? Ist denn nicht die Visualisierung eines Prozessmodelles auch eine Art Muster? Über welche Art dier visuellen Repräsentation habe ich anfangs nachgedacht, um meinen Prozess zu visualisieren? Hier habe ich mich oft an einer Sprache orientiert, die mir aus dem beruflichen Prozesskontext relativ vertraut ist: der Datenvisualisierung. Anfangs war die Vorstellung des Prozesses / Workflows sehr geradlinig, eine Art [Waterfall-Diagram](https://i.stack.imgur.com/yNiyO.png).
+
+Mit dem Konkretisierungsprozess entstand der Gedanke, hier auch evtl. ein Projekt daraus zu machen, eine visuelle Sprache für Workflows von digitalen permakulturelle Projekten zu entwickeln.
+
+Im weiteren Verlauf wurde aus dem linearen Ablauf immer mehr eine Art Ansammlung von verschiedenen Elementen, Akteuren und Prozessabschnitten, die, vom Grossen ins Kleine, erst eine visuelle Repräsentation der einzelnen Prozessabschnitte zueinander darstellten:
+
+Bild Muster 1
+
+Dann ging ich visuell konkreter auf deren Qualität innerhalb des Projektablaufes ein:
+
+Bild Muster 2, Bild Muster 3
+
+Und schliesslich gelangte ich zu dem Moment im Prozess, an dem konkret an einer Teilaufgabe oder Fragestellung gearbeitet mit, evtl. auch mit externen Kollaboratoren (bspw. Zielformulierung des digitalen Projektes, Auswahl und Erarbeitung des geeigneten Formates o.ä.). Hier wurde mir schnell klar, dass es sich um kleine "Fokusspiralen" handeln musste, die wie eine Art Workshop-Tunnel funktionieren: man geht mit einer Fragestellung oder Anliegen in diesen Prozess und arbeitet sich zu einer Lösung hin und mit dieser nimmt man dann eine andere Prespektive ein, während man sich wieder öffnet und mit den neuen Erkenntnissen weiter dem grossen Nordstern des Projektes folgt.
+
+Muster 4
+
+Ich habe für mich aus dieser Herleitung eine Art Handlungsanweisung ziehen können, denn diese Fokusphasen können gute Möglichkeiten für das Ausprobieren von verschiedenen Methoden und Herangehensweisen sein (bspw. ein Designsprint oder ein kurzer Workshop mit dem [Wheel Of Magicians](../../workflow/detailed/consulting.md#wheel-of-magicians)). Weiter entstehen hierdurch Reibung und Überschneidung, vielleicht sogar eine Art Wabenmuster, wenn verschiedene Professionen von Kollaborateuren zusammentreffen. Es entstehen sozusagen Randzonen, die laut den [Ökosystemkriterien](../../process/design/principle-sets.md) extrem spannend und biodivers sind. Aus dem Design kennen wir das als fruchtbare gemeinsame und interdisziplinäre Arbeit in einem festgesetzten Zeitrahmen. Hier entstehen meistens die coolsten Sachen. Dieser Phase angemessen Raum zu geben und das Ergebnis dieser Fokusarbeit zu zelebrieren habe ich mir extra noch als Erkenntnis aufgeschrieben. Weiter fiel mir das Prinzip integrate instead of segregate vom Holmgren ein, welches mir wieder sagte: ja, mach das so!
+
+Ich las zum eigentlichen Muster der Spirale im Dokument der Natural Pattern, dass die Spirale oft für increased exchange steht und, was ich besonders mochte: **adds size without changing shape and increases length without adding width**. Das ist fast wie ein schwarzes Loch: man arbeitet sehr intensiv und fokussiert an einem Thema und es scheint, als ob das eigentliche Projekt zum Erliegen gekommen ist. Dabei ist man nur so sehr im Fokustunnel, dass die Hauptprojektzeit gefühlt langsamer vergeht und die des Tunnels schneller. Erst am Ende, wenn man wieder on track ist, sieht man, was in der Zwischenzeit alles gereift und passiert ist.
