@@ -44,7 +44,7 @@ module.exports = {
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/nadineprigann'
+        link: 'https://github.com/nadineprigann/permacultural-web-dev'
       },
       {
         text: 'Autor',
