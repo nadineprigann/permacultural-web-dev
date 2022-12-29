@@ -82,7 +82,7 @@ module.exports = {
               title: 'Design',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/principle-sets.md'],
+              children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/principle-sets.md', '/process/design/ethics-tools.md'],
             },
             {
               title: 'Realize',
