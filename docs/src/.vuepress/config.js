@@ -82,7 +82,7 @@ module.exports = {
               title: 'Design',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/principle-sets.md', '/process/design/ethics-tools.md'],
+              children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/ethics.md', '/process/design/principle-sets.md', '/process/design/tools-partner.md' ],
             },
             {
               title: 'Realize',
@@ -120,7 +120,7 @@ module.exports = {
               title: 'In-depth workflows',
               collapsable: false,
               sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/workflow/detailed/consulting.md', '/workflow/detailed/design.md', '/workflow/detailed/backend.md', '/workflow/detailed/frontend.md'],
+              children: ['/workflow/detailed/consulting.md', '/workflow/detailed/design.md', '/workflow/detailed/backend.md', '/workflow/detailed/frontend.md', '/workflow/detailed/feedback.md'],
             },
             // 'consulting',
             // 'design',
