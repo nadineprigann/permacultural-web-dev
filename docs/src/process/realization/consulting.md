@@ -8,9 +8,8 @@ Diskutiert wurde hier auch die Hostingfrage und technische Voraussetzungen der H
 
 Nach dem Call erstellte ich einen gemeinsamen und passwortgeschützten Webspace innerhalb meiner Nextcloud in meinem lokalen Projektordner, in dem die Auftraggebenden und Kollaborierenden Skizzen, Material, Originalinhalte wie Bilder und Texte hochladen können. Nach Projektabschluss kann dieser gelöscht werden.
 
-<!-- <c-text-block :text="Dies sollte unbedingt als fester Bestandteil in den Workflow aufgenommen werden, da hierdurch das Nutzen von fraglicher und / oder zusätzlicher Software vermieden wird." /> -->
-Dies sollte unbedingt als fester Bestandteil in den Workflow aufgenommen werden, da hierdurch das Nutzen von fraglicher und / oder zusätzlicher Software vermieden wird.
+<c-text-block text="Dies sollte unbedingt als fester Bestandteil in den Workflow aufgenommen werden, da hierdurch das Nutzen von fraglicher und / oder zusätzlicher Software vermieden wird." type="succession"/>
 
 Da die meisten Initiation-Fragen klar beantwortet werden konnten, wechselten wir recht schnell in die Designphase.
 
-<!-- <c-text-block :text="Wichtig wäre hier, eine Art Zusammenfassung zu erstellen, die im weiteren Verlauf des Projektes als Bestandsplan fungieren kann." /> --> Wichtig wäre hier, eine Art Zusammenfassung zu erstellen, die im weiteren Verlauf des Projektes als Bestandsplan fungieren kann.
+<c-text-block text="Wichtig wäre hier, eine Art Zusammenfassung zu erstellen, die im weiteren Verlauf des Projektes als Bestandsplan fungieren kann." type="idea"/>

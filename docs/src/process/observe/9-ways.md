@@ -1,8 +1,6 @@
 # 9 Ways of Starhawk
 
-Anfangs habe ich mir folgende zentrale Fragen gestellt:
-
-I wonder...
+Als erste Intervention, um das Projekt etwas klarer zu definieren, habe ich mir Fragen gestellt, welche mich gerade beschäftigen. Sie sind der Sektion "I wonder" von den <c-external-link url="https://cloud.nadineprigann.de/index.php/s/EmEFxFs3Rd3e27p" label="9 Ways of Starhawk"/> entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
 
 - wo ist die Besonderheit / USP dieses businesses?
 - wie kann man Auftragsfluktuationen / Durststrecken überwinden, finanziell und
