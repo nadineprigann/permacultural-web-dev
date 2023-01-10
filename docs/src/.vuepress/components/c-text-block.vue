@@ -1,6 +1,6 @@
 <template>
   <section class="component">
-    <div v-html="item"/>
+    <div v-html="text"/>
     <!-- <c-base-bodytext :class="$style.body" v-html="item" /> -->
   </section>
 </template>
@@ -11,14 +11,14 @@
 export default {
   // components: { CBaseBodytext },
   props: {
-    item: {
+    text: {
       type: String,
       required: true,
       default: ""
     },
     type: {
       type: String,
-      default: 'info'
+      default: 'info' // info, feature, resource, succession
     }
   },
   data() {
