@@ -1,6 +1,6 @@
 <template>
   <section class="component">
-    <div v-html="type" class="type"/>
+    <div v-html="labels.type" class="type"/>
     <div v-html="text" class="text"/>
     <!-- <c-base-bodytext :class="$style.body" v-html="item" /> -->
   </section>
@@ -23,7 +23,11 @@ export default {
     }
   },
   data() {
-    return {};
+    return {
+      labels: {
+        type: 'succession'
+      }
+    };
   },
   computed: {
     classes() {
