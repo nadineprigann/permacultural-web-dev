@@ -25,7 +25,7 @@ export default {
   data() {
     return {
       labels: {
-        type: 'succession'
+        type: 'sukzession'
       }
     };
   },
