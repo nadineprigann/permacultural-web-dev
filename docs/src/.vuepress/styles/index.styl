@@ -25,12 +25,51 @@ html,
 .sidebar,
 .home {
   background-color: #151515;
+  border-color: $badgeTipColor
 }
+
+.theme-container,
+.home {
+  display: flex;
+}
+
+.theme-container {
+  height: 100vh;
+}
+
+.home {
+  flex: 1;
+  display: flex !important;
+  flex-direction: column;
+}
+
+.home .footer {
+  border-color: $badgeTipColor !important;
+}
+
 
 .navbar > div.links {
   background-color: #151515;
 }
 
+.hero {
+  flex: 1;
+  flex-direction: column;
+  margin-top: 15%;
+}
 
-.home .hero img
-  max-width 450px!important
+
+
+ h1 {
+  font-size: 1.5em;
+ }
+
+ h2 {
+  font-size: 1.2em;
+ }
+
+ h3 {
+  font-size: 1em;
+ }
+
+ 
