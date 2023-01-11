@@ -61,5 +61,4 @@ Im Weiteren Verlauf, besonders im Design- und Umsetzungsschritt wurden allerding
 
 Dieses Prinzipienset muss noch genauer beobachtet werden, um konkretere Aussagen treffen zu können. Generell lässt sich aber sagen, dass die Ökosystemkriterien meines Erachtens umfassender und tiefer zu meinem Projekt passen und dieses rahmen. Zudem sehe ich diesen Workflow als Art eigenständigen Ablauf an, welcher sich selbst erhalten und tragen muss und dadurch durchaus Sytemcharakter hat, auf welches diese Kriterien zutreffen.
 
-<!-- <c-text-block :text="Ziel kann ausserdem sein, ein Prinzipienset für nachhaltige Webentwicklung zusammenzutragen, welches bestehende PK-Prinzipiensets sowie Fagen aus dem Bereich des Sustainable Webdesigns vereint."> -->
-Ziel kann ausserdem sein, ein Prinzipienset für nachhaltige Webentwicklung zusammenzutragen, welches bestehende PK-Prinzipiensets sowie Fagen aus dem Bereich des Sustainable Webdesigns vereint.
+<c-text-block text="Ziel kann ausserdem sein, ein Prinzipienset für nachhaltige Webentwicklung zusammenzutragen, welches bestehende PK-Prinzipiensets sowie Fagen aus dem Bereich des Sustainable Webdesigns vereint." />
