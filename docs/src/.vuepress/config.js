@@ -47,17 +47,17 @@ module.exports = {
         link: 'https://github.com/nadineprigann/permacultural-web-dev'
       },
       {
-        text: 'Autor',
+        text: 'Autorin',
         link: 'https://nadineprigann.de'
       },
-      {
-        text: 'Language',
-        ariaLabel: 'Language Menu',
-        items: [
-          { text: 'EN', link: '/language/english/' },
-          { text: 'DE', link: '/language/german/' }
-        ]
-      }
+      // {
+      //   text: 'Language',
+      //   ariaLabel: 'Language Menu',
+      //   items: [
+      //     { text: 'EN', link: '/language/english/' },
+      //     { text: 'DE', link: '/language/german/' }
+      //   ]
+      // }
     ],
     sidebar: {
       '/process/': [
