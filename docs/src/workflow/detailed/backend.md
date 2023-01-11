@@ -22,4 +22,4 @@ Abfüllen des lokalen Backends mit Testdaten. Im besten Fall steht bereits Origi
 
 Besprechung und erste Einführung mit den Auftraggebenden. In dieser Besprechung wird dieser Teilschritt offiziell abgenommen.
 
-<!-- <c-text-block :item="'Die Abnahme der Teilschritte sollte schriftlich und mit einer Unterschrift durchgeführt werden. Ausserdem bieten diese sich als günstigen Zeitpunkt für Abschlagszahlungen an.'" /> -->
+<c-text-block text="Die Abnahme der Teilschritte sollte schriftlich und mit einer Unterschrift durchgeführt werden. Ausserdem bieten diese sich als günstigen Zeitpunkt für Abschlagszahlungen an." />
