@@ -52,6 +52,7 @@ export default {
 
 .type,
 .text {
+  font-family: 'IBM Plex Mono';
   font-size: 0.85em;
 }
 
