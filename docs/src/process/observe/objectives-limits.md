@@ -4,4 +4,4 @@ Zu Beginn wurde zur Findung eines roten Fadens erst einmal alle Ideen und Ressou
 
 Hierfür wurden die Karten dann noch einmal in Bezug auf das sich abzeichnende Projekt angeordnet. Dies ist nun sozusagen die Ausgangslage, mit der ich an mein Projekt herantrete. Es wird mir deutlich, wo ich noch Hindernisse und evtl. sogar Mankos habe, an denen ich arbeiten darf, aber öffnet auch den Blick für all das, was schon da ist und eingebunden werden darf.  
 
-Bild von Cluster
+![Clustern von Kategorien](../../../assets/images/IMG_9715.jpg "Clustern von Kategorien")

@@ -4,8 +4,12 @@ Hier wird die Realisierung des Designs des Webprojektes behandelt. Es werden im 
 
 Nesrin hatte bereits erste Skizzen zur Gestaltung Introseite der Seite. Auf Grundlage der Informationen, die bereitgestellt werden sollten, wurde die Struktur dieser definiert. Hierbei waren auch Gesichtspunkte wie Reduktion der Seitenaufrufe, Reduktion der Verwendung von grossformatigen Medien und passende Schriften entscheidend.
 
-Wireframes
+##  Wireframes
 
-Konzeptideen
+Auf Grundlage der vorangegangen Calls entwickelte ich erste und schnelle Handskizzen bzw. <c-external-link url="https://cloud.nadineprigann.de/index.php/s/XAe4nsLsXPcMCBD" label="strukturelle Skizzen (Wireframes)" />, die den Navigationsablauf, die Struktur und Anordnung der Elemente und die Aufteilung des Inhalts ersichtklich machen.  
 
-Feinkonzept
+##  Konzeptideen
+
+Der nächste Schritt war die Exploration einer grafischen Sprache. Hierzu entwickelte ich <c-external-link url="https://cloud.nadineprigann.de/index.php/s/oeD8Tb96FMPYYBp" label="verschiedene Entwürfe" />, die in einem Design Call besprochen wurden.
+
+ausführlicher beschreiben, warum welche Entscheidung getroffen wurde, was die Ergebnisse der Calls waren und wo wir aktuell Schwierigkeiten sehen.

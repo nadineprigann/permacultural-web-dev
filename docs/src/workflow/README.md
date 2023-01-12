@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 Der Workflow, der als Ergebnis von Beobachtung und Analyse des aktuellen Workflows meiner Angestelltentätigkeit als Design des Projektes gesehen werden kann, wird nun in den folgenden Kapiteln eingehend vorgestellt. Für mich ging mit dem Design des Workflows auch die Fragen der Repräsentation einher: wo wird dieser Workflow festgehalten? Wie wird er visuell dargestellt? Welche Aufgaben hat diese Visualisierung? Kann ich die reine Visualisierung mit einem Mehrwert verknüpfen?
 
