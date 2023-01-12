@@ -9,5 +9,5 @@ Ich skizzierte <c-external-link url="https://cloud.nadineprigann.de/index.php/s/
 Die zugänglichste Art war für mich dann eine Art vertikales Waterfall-Diagram, welches nun einen <c-external-link url="https://cloud.nadineprigann.de/index.php/s/AxB4tEJg92Ycdtc" label="ersten Entwurf des Bestandsplanes des Workflows" /> zeigt.
 
 Wie hieraus ersichtlich ist, handelt es sich um einen recht langen Prozess, der selten alle Beteiligten an einen Tisch holt bzw. ihnen die Möglichkeit gibt, sich über den aktuellen Stand des Projektes zu informieren. Feedbackrunden sind sehr aufwendig, weil es kaum ein Tool gibt, mit dem schnell und in Echtzeit Rücksprache gehalten werden kann, die dann von allen Beteiligten ohne Account oder das Programm zu besitzen, eingesehen werden kann. Hierdurch entsteht die Notwendigkeit, dass beispielsweise bei der Umsetzung des Frontends auftauchende Fragen über den Project Lead an den Gestaltenden herangetragen werden. Die Antwort geht denselben Weg. Oft braucht es auch mehrere Meetings, um Auftraggebenden und Gestaltenden auf den gleichen Stand zu bringen.
-
-was ist der aktuelle bestandsplan? aktueller workflow? kurzes schriftliches resummee, was hier phase ist.
+<!-- 
+was ist der aktuelle bestandsplan? aktueller workflow? kurzes schriftliches resummee, was hier phase ist. -->
