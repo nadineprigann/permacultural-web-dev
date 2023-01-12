@@ -35,7 +35,7 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Process',
+        text: 'Dokumentation',
         link: '/process/'
       },
       {
@@ -62,18 +62,17 @@ module.exports = {
     sidebar: {
       '/process/': [
         {
-          title: 'Prozess',
           collapsable: false,
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
             {
-              title: 'Observe',
+              title: 'Beobachten',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/observe/objectives-limits.md', '/process/observe/objectives.md', '/process/observe/9-ways.md', '/process/observe/user-interview.md', '/process/observe/inventory.md'],
             },
             {
-              title: 'Analyze',
+              title: 'Analyse',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/analysis/io-analysis.md', '/process/analysis/patterns.md'],
@@ -85,7 +84,7 @@ module.exports = {
               children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/ethics.md', '/process/design/principle-sets.md', '/process/design/tools-partner.md' ],
             },
             {
-              title: 'Realize',
+              title: 'Realisieren',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/realization/intro.md', '/process/realization/consulting.md', '/process/realization/design.md'],
@@ -111,7 +110,6 @@ module.exports = {
       ],
       '/workflow/': [
         {
-          title: 'Workflow',
           collapsable: false,
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
