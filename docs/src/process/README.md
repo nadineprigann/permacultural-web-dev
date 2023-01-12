@@ -1,3 +1,7 @@
-## Prozess der Entwicklung eines Workflows für permakulturelle Webentwicklung
+# Prozess der Entwicklung eines Workflows für permakulturelle Webentwicklung
 
-Wo sind aktuell Probleme? Warum möchte ich das tun? Was erhoffe ich mir von der Anwendung der Permakultur auf Webentwicklung. Kurzer Ausblick auf Kapitel.
+Wo sind aktuell Probleme? Warum möchte ich das tun? Was erhoffe ich mir von der Anwendung der Permakultur auf Webentwicklung? Kurzer Ausblick auf Kapitel.
+
+Wäre das Internet ein Land, wäre es der 7. grösste CO2-Produzent. Der Grossteil der Hardware, die benutzt wird, ist fraglichen Ursprungs. Der Grossteil der Webseiten sind nicht zugänglich für Menschen mit Einschränkungen, genau so wenig wie für Menschen mit wenig Datenvolumen oder schlechter Internetverbindung. Die durchschnittliche Webseite beinhaltet deutlich zu viel Medien, die alle heruntergeladen und verarbeitet werden müssen. Dies generiert Daten und verbraucht Strom. Kurzum: die digitale Welt ist ein blind spot, wenn es um Nachhaltigkeit geht, doch sowohl Digitalität als auch Nachhaltigkeit sind zwei essentielle Konzepte der Zukunft. Deshalb ist es extrem wichtiug, dass wir beides vereinen und verantwortungsvoll mit Ressourcen umgehen. Auch dann, wenn man sie nicht sehen kann. Ich möchte mit permakulturellen Methoden meinen bestehenden Arbeitsablauf im Angestelltenverhältnis optimieren und diesen dann in meine selbstständige Praxis übernehmen, wo er kontinuierlich verbessert werden kann. Die Ergebnisse dieser reise halte ich in dieser öffentlich zuägnglichen Doku fest, damit jede interessierte Person sich hiervon das entnehmen kann, was gebraucht wird.
+
+Dieser Prozess des Entwickelns dieses Workflows in der Weiterbildung folgt dem Prozessmodell BADUZ. Durch die Methoden und Ergebnisse, die in den einzelnen Schritten erarbeitet wurden, wird auf den nächsten Seiten geführt.
