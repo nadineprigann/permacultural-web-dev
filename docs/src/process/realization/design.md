@@ -6,7 +6,7 @@ Nesrin hatte bereits erste Skizzen zur Gestaltung Introseite der Seite. Auf Grun
 
 ##  Wireframes
 
-Auf Grundlage der vorangegangen Calls entwickelte ich erste und schnelle Handskizzen bzw. <c-external-link url="https://cloud.nadineprigann.de/index.php/s/XAe4nsLsXPcMCBD" label="strukturelle Skizzen (Wireframes)" />, die den Navigationsablauf, die Struktur und Anordnung der Elemente und die Aufteilung des Inhalts ersichtklich machen.  
+Auf Grundlage der vorangegangen Calls entwickelte ich erste und schnelle Handskizzen bzw. <c-external-link url="https://cloud.nadineprigann.de/index.php/f/54177" label="strukturelle Skizzen (Wireframes)"/>, die den Navigationsablauf, die Struktur und Anordnung der Elemente und die Aufteilung des Inhalts ersichtlich machen.
 
 ##  Konzeptideen
 
