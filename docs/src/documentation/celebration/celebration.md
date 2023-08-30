@@ -1,4 +1,4 @@
-# Feiern
+# Feiern der (End)Ergebnisse
 
 An diesem Punkt, dem Ende der ersten Iteration des Prozesses, ist nun wichtig, einen Moment innezuhalten und wahrzunehmen, was bis jetzt entstanden ist und welche Qualitäten dieses Ergebnis mit sich bringt.
 

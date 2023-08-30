@@ -1,5 +1,7 @@
 # Intro
 
+hier zusammenfassen, was die lösung nun ist für das problem bzw. die analysen ergeben haben.
+
 To fulfill this goal, an accessibly tracked workflow could do just that:
 
 - it tracks the current state we're in -> also the workflow which helps in terms of project management

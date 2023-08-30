@@ -1,0 +1,7 @@
+# Zone 0.0
+
+Ein Hauptpunkt, der in diesem Projekt sehr klar aufkam, war meine persönliche Verfassung, auch Zone 0.0 (nach der Methode der Zonierung in der Permakultur benannt).
+
+Diese Arbeit und Zeit, die diese Zone 0.0 nun braucht, hat oberste Priorität und setzt alle weiteren Projekte erst einmal auf on hold. Sieht man sich die [Resourcen-Limits-Analyse](../../documentation/observe/objectives-limits.md) zu Beginn des Projektes an, wird dort bereits ersichtlich, dass grosse Lernanliegen die emotionale Belastbarkeit und die Selbstregulation sind. Auch alte Muster loslassen ist dort vermerkt. Ich habe also bereits erahnt, dass dort noch viel Stabilisierungsarbeit zu tun ist, welche ich mir nun seit einigen Wochen einräume und auf jeden Fall auch noch weiter einräumen möchte. Ich möchte mind. ein Jahr nur nach meiner Zone 0.0 schauen; ein emotionales sabbatical sozusagen einlegen und mit den Methoden der Permakultur meine innere Landschaft beobachten, erkunden und heilen.
+
+Es zeigte sich, dass dies zwingend notwendig ist, um die Resource Nadine zu stabilisieren, die der Grundpfeiler für solche Projekte ist. Sobald ich mich mit diesen Themen und Lernanliegen wieder sicherer fühle, werde ich dieses Projekt der permakulturellen Selbstständigkeit wieder aufnehmen und weiterführen und die Erkenntnisse des 0.0-sabbaticals zur weiteren Gestaltung der Selbstständigkeit mit einfliessen lassen.

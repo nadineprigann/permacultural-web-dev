@@ -32,7 +32,7 @@ meine Ziele zu sparen?
 
 7. Welche finanziellen Hilfen gibt es für mich?
 
-    *Die wichtigsten sind der Existenzgründerzuschuss, wenn ich aus der Arbeitslosigkeit gründe und einige Fördergelder. Hier muss aber sehr gut recherchiert werden, da die meisten auf Firmen abzielen, die Geld für ihre Digitalisierung bekommen können > [diese ebenfalls sammeln](../../process/tweaking/funding.md) und Auftraggebenden vorschlagen, um meine Arbeit zu finanzieren.*
+    *Die wichtigsten sind der Existenzgründerzuschuss, wenn ich aus der Arbeitslosigkeit gründe und einige Fördergelder. Hier muss aber sehr gut recherchiert werden, da die meisten auf Firmen abzielen, die Geld für ihre Digitalisierung bekommen können > [diese ebenfalls sammeln](../../documentation/tweaking/funding.md) und Auftraggebenden vorschlagen, um meine Arbeit zu finanzieren.*
 
 8. Bin ich emotional “dafür gemacht”?
 
