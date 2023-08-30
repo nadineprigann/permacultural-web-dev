@@ -36,7 +36,7 @@ module.exports = {
     nav: [
       {
         text: 'Dokumentation',
-        link: '/process/'
+        link: '/documentation/'
       },
       {
         text: 'Workflow',
@@ -60,7 +60,7 @@ module.exports = {
       // }
     ],
     sidebar: {
-      '/process/': [
+      '/documentation/': [
         {
           collapsable: false,
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
@@ -70,32 +70,32 @@ module.exports = {
               title: 'Beobachten',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/observe/objectives-limits.md', '/process/observe/objectives.md', '/process/observe/9-ways.md', '/process/observe/user-interview.md', '/process/observe/inventory.md'],
+              children: ['/documentation/observe/objectives-limits.md', '/documentation/observe/objectives.md', '/documentation/observe/9-ways.md', '/documentation/observe/user-interview.md', '/documentation/observe/inventory.md'],
             },
             {
               title: 'Analyse',
               collapsable: false,
-              children: ['/process/analysis/io-analysis.md', '/process/analysis/patterns.md'],
+              children: ['/documentation/analysis/io-analysis.md', '/documentation/analysis/patterns.md'],
             },
             {
               title: 'Design',
               collapsable: false,
-              children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/ethics.md', '/process/design/principle-sets.md', '/process/design/tools-partner.md' ],
+              children: ['/documentation/design/intro.md', '/documentation/design/inventory.md', '/documentation/design/process-model.md', '/documentation/design/ethics.md', '/documentation/design/principle-sets.md', '/documentation/design/tools-partner.md' ],
             },
             {
               title: 'Umsetzen',
               collapsable: false,
-              children: ['/process/realization/intro.md', '/process/realization/consulting.md', '/process/realization/design.md'],
+              children: ['/documentation/realization/intro.md', '/documentation/realization/consulting.md', '/documentation/realization/design.md'],
             },
             {
               title: 'Zelebrieren',
               collapsable: false,
-              children: ['/process/celebration/celebration.md'],
+              children: ['/documentation/celebration/celebration.md'],
             },
             {
               title: 'Tweak',
               collapsable: false,
-              children: ['/process/tweaking/intro.md', '/process/tweaking/funding.md'],
+              children: ['/documentation/tweaking/intro.md', '/documentation/tweaking/funding.md'],
             },
           ]
         }
