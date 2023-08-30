@@ -65,6 +65,7 @@ module.exports = {
           collapsable: false,
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
+            '',
             {
               title: 'Beobachten',
               collapsable: false,
@@ -99,7 +100,7 @@ module.exports = {
               title: 'Tweak',
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/process/tweaking/intro.md'],
+              children: ['/process/tweaking/intro.md', '/process/tweaking/funding.md'],
             },
             // 'consulting',
             // 'design',
