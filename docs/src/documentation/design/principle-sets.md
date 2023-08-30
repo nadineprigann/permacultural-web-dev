@@ -57,7 +57,7 @@ Im Weiteren Verlauf, besonders im Design- und Umsetzungsschritt wurden allerding
 
 **8. Vernetzung**: Ergänzt Punkt 7 und 1 und Prinzip #8 und #10.
 
-**9. Wechselwirkung**: Die verschiedenen Interventionen und Bestandteile (Codebase, Projektmanagementtool als Workflow, etc) haben alle eine Beziehung zueinander und beeinflussen diese wechselseitig. Ausserdem kann ihre Wirksamkeit auf diese Wechselwirkung hin untersucht und daraus Erkenntnisse zur Optimierung abgeleitet werden. Mehr Infos hierzu findet sich in der [Input-Output-Analyse](../../process/analysis/io-analysis.md).
+**9. Wechselwirkung**: Die verschiedenen Interventionen und Bestandteile (Codebase, Projektmanagementtool als Workflow, etc) haben alle eine Beziehung zueinander und beeinflussen diese wechselseitig. Ausserdem kann ihre Wirksamkeit auf diese Wechselwirkung hin untersucht und daraus Erkenntnisse zur Optimierung abgeleitet werden. Mehr Infos hierzu findet sich in der [Input-Output-Analyse](../../documentation/analysis/io-analysis.md).
 
 Dieses Prinzipienset muss noch genauer beobachtet werden, um konkretere Aussagen treffen zu können. Generell lässt sich aber sagen, dass die Ökosystemkriterien meines Erachtens umfassender und tiefer zu meinem Projekt passen und dieses rahmen. Zudem sehe ich diesen Workflow als Art eigenständigen Ablauf an, welcher sich selbst erhalten und tragen muss und dadurch durchaus Sytemcharakter hat, auf welches diese Kriterien zutreffen.
 
