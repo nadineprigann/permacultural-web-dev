@@ -75,37 +75,28 @@ module.exports = {
             {
               title: 'Analyse',
               collapsable: false,
-              // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/analysis/io-analysis.md', '/process/analysis/patterns.md'],
             },
             {
               title: 'Design',
               collapsable: false,
-              // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/design/intro.md', '/process/design/inventory.md', '/process/design/process-model.md', '/process/design/ethics.md', '/process/design/principle-sets.md', '/process/design/tools-partner.md' ],
             },
             {
-              title: 'Realisieren',
+              title: 'Umsetzen',
               collapsable: false,
-              // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/realization/intro.md', '/process/realization/consulting.md', '/process/realization/design.md'],
             },
-            // {
-            //   title: 'Celebrate',
-            //   collapsable: false,
-            //   // sidebarDepth: 2,    // optional, defaults to 1
-            //   children: ['/process/celebrate/io-analysis.md'],
-            // },
+            {
+              title: 'Zelebrieren',
+              collapsable: false,
+              children: ['/process/celebration/celebration.md'],
+            },
             {
               title: 'Tweak',
               collapsable: false,
-              // sidebarDepth: 2,    // optional, defaults to 1
               children: ['/process/tweaking/intro.md', '/process/tweaking/funding.md'],
             },
-            // 'consulting',
-            // 'design',
-            // 'backend',
-            // 'frontend',
           ]
         }
       ],
