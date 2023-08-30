@@ -1,6 +1,8 @@
 <template>
+  <!-- TODO: make dynamic class names work. it is not possible with pure CSS but preprocessors can be installed. 
+    did not work properly as of 02/23. workaround is using these defined scoped styles as class names within parent -->
   <section class="component">
-    <div v-html="labels.type" class="type"/>
+    <div v-html="label" class="type"/>
     <div v-html="text" class="text"/>
     <!-- <c-base-bodytext :class="$style.body" v-html="item" /> -->
   </section>
@@ -17,24 +19,19 @@ export default {
       required: true,
       default: ""
     },
-    type: {
+    label: {
       type: String,
-      default: 'info' // info, feature, resource, succession
+      // default: 'info' // info, feature, resource, succession
     }
-  },
-  data() {
-    return {
-      labels: {
-        type: 'sukzession'
-      }
-    };
   },
   computed: {
-    classes() {
-      return {
-        component: [this.$style.component]
-      };
-    }
+    // classes() {
+    //   return {
+    //     component: [this.$style.component,
+    //     this.$style['label-' + this.label]
+    //     ]
+    //   };
+    // }
   },
 
 };
@@ -42,12 +39,26 @@ export default {
 
 <style scoped lang="css">
 .component {
-  --highlight-color: rgb(66, 185, 131);
   /* --bg: rgb(113, 168, 255); */
   background-color: rgb(45, 45, 45);
   border-left: solid 0.5rem var(--highlight-color);
   padding: 1em 1.2em;
   margin: 2em 0;
+
+  &.label-succession {
+    --highlight-color: rgb(66, 185, 131);
+  }
+
+  &.label-resource {
+    --highlight-color: rgb(250, 149, 33);
+  }
+
+  &.label-feature {
+    --highlight-color: rgb(210, 104, 255);
+  }
+  &.label-info {
+    --highlight-color: rgb(141, 221, 255);
+  }
 }
 
 .type,
