@@ -95,7 +95,7 @@ module.exports = {
             {
               title: 'Tweak',
               collapsable: false,
-              children: ['/documentation/tweaking/intro.md', '/documentation/tweaking/funding.md'],
+              children: ['/documentation/tweaking/intro.md', '/documentation/tweaking/funding.md','/documentation/tweaking/zone.md'],
             },
           ]
         }
@@ -103,7 +103,6 @@ module.exports = {
       '/workflow/': [
         {
           collapsable: false,
-          // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
             '',
             {
@@ -112,10 +111,6 @@ module.exports = {
               sidebarDepth: 2,    // optional, defaults to 1
               children: ['/workflow/detailed/consulting.md', '/workflow/detailed/design.md', '/workflow/detailed/backend.md', '/workflow/detailed/frontend.md', '/workflow/detailed/feedback.md'],
             },
-            // 'consulting',
-            // 'design',
-            // 'backend',
-            // 'frontend',
           ]
         }
       ],
