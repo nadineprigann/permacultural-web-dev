@@ -50,11 +50,11 @@ export default {
   }
 
   &.label-resource {
-    --highlight-color: rgb(250, 149, 33);
+    --highlight-color: rgb(252, 185, 108);
   }
 
   &.label-feature {
-    --highlight-color: rgb(210, 104, 255);
+    --highlight-color: rgb(228, 164, 255);
   }
   &.label-info {
     --highlight-color: rgb(141, 221, 255);
