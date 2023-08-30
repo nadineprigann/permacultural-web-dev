@@ -4,7 +4,7 @@ Durch meine Position als Junior Frontend Developer bei Süpèr hatte ich bereits
 
 Ich skizzierte <c-external-link url="https://cloud.nadineprigann.de/index.php/s/rRd6RPSLeS4GyTJ" label="einige Varianten und Ideen."/> Schnell stellte ich fest, dass es hierfür womöglich einer eigenen visuellen Sprache bedarf, diesen komplexen Vorgang darzustellen.
 
-<c-text-block text="Eine visuelle Sprache für komplexe Workflows finden und diesen evtl. digital erfahrbar machen. Lektuüreempfehlung: Gioriga Lupi – Observe, Collect, Draw" />
+<c-text-block text="Eine visuelle Sprache für komplexe Workflows finden und diesen evtl. digital erfahrbar machen. Lektuüreempfehlung: Gioriga Lupi – Observe, Collect, Draw" label="resource" class="label-resource"/>
 
 Die zugänglichste Art war für mich dann eine Art vertikales Waterfall-Diagram, welches nun einen <c-external-link url="https://cloud.nadineprigann.de/index.php/s/AxB4tEJg92Ycdtc" label="ersten Entwurf des Bestandsplanes des Workflows" /> zeigt.
 
