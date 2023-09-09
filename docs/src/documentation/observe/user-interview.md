@@ -156,4 +156,5 @@
 *Für ein klimaneutrales open air in Wohlen, CH. Und das freie Projekt zur Nachhaltigkeitsbestenliste, welches bei uns schon ewig in der Pipeline liegt, würde ich gerne umsetzen.*
 
 **Möchtest du noch was ergänzen oder los werden?**
+
 *Wollte nur noch sagen, dass ich finde, dass wir eine echt coole Zusammenarbeit haben. Ich möchte sie gerne so weiterführen, denn ich sehe auch deine Entwicklung: es greift alles immer besser ineinander, du bringst dich ein etc. Das finde ich schön zu sehen.*
