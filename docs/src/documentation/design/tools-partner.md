@@ -21,7 +21,7 @@ Auf Grundlage der Ethik und der Prinzipien der Permakultur sowie naheliegende Ko
 - proprietäre Software wie Adobe-Produkte sind zwingend zu vermeiden
 - wenn möglich, sollten datenschutzkonforme Tools benutzt werden, die weder Analysen durchführen, noch Daten ohne Zustimmung weiterverarbeiten -> Google Services sind demnach tabu. Auch Meta-Integrationen (Facebook, Instagram) sind abzulehnen
 
-Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen zusammengetragen werden. Diese sollte regelmässig überprüft, aufgearbeitet und ergänzt werden, danoch nicht alle Apps den oben genannten Anforderungen aus Mangel an Alternativen entsprechen. -> Sukzession!
+Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen zusammengetragen werden. Diese sollte regelmässig überprüft, aufgearbeitet und ergänzt werden, da noch nicht alle Apps den oben genannten Anforderungen aus Mangel an Alternativen entsprechen.
 
 ### Design
 
@@ -39,15 +39,21 @@ Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen
 - [MAMP](https://www.mamp.info/) (nicht kostenfrei) – Lokaler Server
 - [GitHub](https://github.com/) - Versioning Tool
 
+###  Hosting
+
+- [Infomaniak](https://www.infomaniak.com/de/hosting/web-und-mail/web-und-e-mail-hosting)
+- [Biohost](https://www.biohost.de/)
+- [GreenSta](https://ssl.greensta.de/)
+
 ### Kommunikation + Projektmanagement
 
 - [Slack](https://slack.com/) – Kommunikationstool
-- [FastMail](https://www.fastmail.com/) – E-Mail-Programm, (nicht kostenfrei, aber privacy-friendly und mit viele Funktionen)
+- [FastMail](https://www.fastmail.com/) – E-Mail-Programm, (nicht kostenfrei, aber privacy-friendly und mit vielen Funktionen)
 - [Senfcall](https://www.senfcall.de/) – Videoanrufe
 - [Trello](https://trello.com/) – Projektmanagement, (mit Login)
 - [LibreOffice](https://www.libreoffice.org/) – Textverarbeitung
 - [Keynote](https://www.apple.com/keynote/) – Präsentation, ist vorhanden
-- [1password](https://1password.com/) – Passwortmanager, (nicht kostenfrei, mit Login) -> bitwarden, XKeypass?
+- [1password](https://1password.com/) – Passwortmanager, (nicht kostenfrei, mit Login) -> [bitwarden](https://bitwarden.com/), [KeePassXC](https://keepassxc.org/)?
 Rechnungstool
 - [Tyme](https://www.tyme-app.com/en/) – Time Tracking
 - [Nextcloud](https://nextcloud.com/) – File Sharing
