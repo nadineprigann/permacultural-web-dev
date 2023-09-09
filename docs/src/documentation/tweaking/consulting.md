@@ -1,0 +1,13 @@
+# Consulting zur strukturellen und inhaltlichen Klarheit
+
+Es war vor Beginn des Projektes schon aus meiner Berufspraxis klar, dass der Inhalt, der auf der Webseite dargestellt wird sowie seine Struktur klar sein müssen, bevor erste Designentwürfe entstehen.
+
+Die Relevanz dessen wurde allerdings durch die Anwendung der Permakulturprinzipien noch um ein Vielfaches grösser, da die langfristige Perspektive der Sukzession und des Kreislaufdenkens extrem essentielle Fragen stellt, die gravierende Auswirkungen auf die Aufbereitung und Darstellung des Inhalts haben. Teilweise betreffen sie sogar die grundlegende technische Struktur des Projekts. In diesem Kontext können Fragen sein, wie man bspw. mit den Daten vergangener Events auf einer Webseite oder der angedachten Filteroption, die erst in 2 Jahren eingebunden werden soll, umgeht. Gerade bei der Zusammenarbeit mit jungen Initiativen oder Akteuren, die zum ersten Mal eine Website gestalten und erstellen, ist dieser Klärungsprozess oft sehr umfangreich, da er nicht selten grosse Fragen zur Ausrichtung und Konkretisierung des internen Profils aufwirft. Dieser tiefgreifende Prozess braucht Raum, Zeit und Begleitung, nicht nur für die Langfristigkeit meines Projektes, sondern sogar ggf. für die Akteure, die dahinterstehen.
+
+In der Zusammenarbeit mit Nesrin zeigte sich dies ebenfalls durch und nach einer längeren Pause (durch die Arbeit an meiner Zone 0.0) durch grundlegende Fragen nach einer Visionssuche, ob denn eine Website noch relevant bzw. das Richtige Medium für sie sei.
+
+<c-text-block text="Evtl. kann hier bei Bedarf (in Zusammenarbeit) mit einer prozessbegleitenden Person eine Art Visionssuche mittels Dragon Dreaming oder IKIGAI angeleitet werden, die dem inhaltlichen Findungsprozess vorausgeht." label="sukzession" class="label-succession"/>
+
+Es hat sich also nicht nur die Wichtigkeit der Existenz dieser Phase bestätigt, sondern es wurde auch ihre enorme Tragweite klar, die sie auf den weiterführenen Workflow hat. Aus diesem Grund sollte auf diesen Teil noch ein stärkerer Fokus gelegt werden und die verschiedenen Schritte dieser Strukturarbeit kleinteiliger bearbeitet werden. Beispielsweise sollte der Flow der Seite separat von den Wireframes (skizzenhafte Layouts der Seiten) erarbeitet und durchgesprochen werden. Um hier Klarheit zu erlangen kann es durchaus erforderlich sein, eine Art "Content- und Strukturworkshop" zu machen, in dem ausführlich und prozesshaft zu ebendieser Grundlage gefunden wird.
+
+<c-text-block text="Diese einzelnen Schritte können auch als eine Art Workshopformat / Sprint angedacht und im Sinne einer sukzessiven Iteration über mehrere Wochen erarbeitet werden." label="sukzession" class="label-succession"/>
