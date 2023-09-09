@@ -4,7 +4,7 @@ Der Workflow, der als Ergebnis von Beobachtung und Analyse des aktuellen Workflo
 
 Schwachstellen des prev workflows: wir wissen nicht, wo wir stehen? wer ist wie weit? feedback hat keinen zentralen Ort. Kommunikation zu tendious.
 
-Diese Überlegungen zusammen mit den Ergbnissen der Analysen führten mich zum Project Management Tool "Trello", welches nun den Bestandsplan bzw. die Boilerplate für das Project Management jedes neuen Projektes bildet.
+Diese Überlegungen zusammen mit den Ergbnissen der Analysen führten mich zum Project Management Tool «Trello», welches nun den Bestandsplan bzw. die Boilerplate für das Project Management jedes neuen Projektes bildet.
 
 **Workflow**
 **Beobachtung**
@@ -48,4 +48,4 @@ Diese Überlegungen zusammen mit den Ergbnissen der Analysen führten mich zum P
 
 Das Ergebnis dieser Fragen ist dieser[Workflow](https://trello.com/w/userworkspaceaa1c57b2e62ef5488e9680dea9d99fce), der gleichzeitig als Project Management Prozess verstanden und benutzt werden kann.
 
-Solltest du Anmerkugen, Kritik oder Ideen haben, die du teilen möchtest, melde dich bitte gerne unter [dev@nadineprigann.de](mail.to:dev@nadineprigann.de). Ich freue mich immer auf Austausch und Kollaboration, denn dadurch kann ein resilienteres Projekt entstehen.
+Solltest du Anmerkungen, Kritik oder Ideen haben, die du teilen möchtest, melde dich bitte gerne unter [dev@nadineprigann.de](mail.to:dev@nadineprigann.de). Ich freue mich immer auf Austausch und Kollaboration, denn dadurch kann ein resilienteres Projekt entstehen.

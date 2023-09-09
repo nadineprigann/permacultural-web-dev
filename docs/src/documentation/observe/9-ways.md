@@ -1,6 +1,6 @@
 # 9 Ways of Starhawk
 
-Als erste Intervention, um das Projekt etwas klarer zu definieren, habe ich mir Fragen gestellt, welche mich gerade beschäftigen und somit einen Einstieg in mögliche kritische Punkte zu geben. Sie sind der Sektion "I wonder" von den <c-external-link url="https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy" label="9 Ways of Starhawk"/> entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
+Als erste Intervention, um das Projekt etwas klarer zu definieren, habe ich mir Fragen gestellt, welche mich gerade beschäftigen und somit einen Einstieg in mögliche kritische Punkte zu geben. Sie sind der Sektion «I wonder» von den <c-external-link url="https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy" label="9 Ways of Starhawk"/> entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
 
 1. Wo ist die Besonderheit / USP dieses businesses?
 
@@ -32,9 +32,9 @@ meine Ziele zu sparen?
 
     *Die wichtigsten sind der Existenzgründerzuschuss, wenn ich aus der Arbeitslosigkeit gründe und einige Fördergelder. Hier muss aber sehr gut recherchiert werden, da die meisten auf Firmen abzielen, die Geld für ihre Digitalisierung bekommen können > [diese ebenfalls sammeln](../../documentation/tweaking/funding.md) und Auftraggebenden vorschlagen, um meine Arbeit zu finanzieren.*
 
-8. Bin ich emotional “dafür gemacht”?
+8. Bin ich emotional «dafür gemacht»?
 
-    *Diese Frage kommt aus den unsicheren Anteilen in mir, die Angst haben, "nicht gut genug" oder "erfahren genug" zu sein. Ich denke durch Arbeit an meiner Zone 0.0 und den äusseren Faktoren wie finanzielle Sicherheit und Netzwerk bilden, lässt sich diese Unsicherheit / Angst zwar als Warnsignal behalten, aber mich nicht übermässig einnehmen.*
+    *Diese Frage kommt aus den unsicheren Anteilen in mir, die Angst haben, «nicht gut genug» oder «erfahren genug» zu sein. Ich denke durch Arbeit an meiner Zone 0.0 und den äusseren Faktoren wie finanzielle Sicherheit und Netzwerk bilden, lässt sich diese Unsicherheit / Angst zwar als Warnsignal behalten, aber mich nicht übermässig einnehmen.*
 
 9. Kann ich in diesem Umfeld überhaupt permakulturell handeln?
 
@@ -53,17 +53,17 @@ Es zeigt sich hier, dass viele Fragen aus einer nachvollziehbaren Unsicherheit u
 
 Weiter wurden mir folgende Fragen aus der Basisjahr-Gruppe gestellt:
 
-- mit welchen Tools / Werkzeugen fühlst Du Dich wohl, wenn es darum geht „loszulassen“?
+- mit welchen Tools / Werkzeugen fühlst Du Dich wohl, wenn es darum geht «loszulassen»?
 
     *Gärtnern, in der Natur arbeiten / aufhalten, Yoga, meditieren, Filme schauen*
 
 - Was hält dich zurück, in die Selbständigkeit zu starten?
 
-    *Eine gewisse Grundangst, es "nicht zu schaffen", also: wenig bis keine Jobs zu bekommen, den Anforderungen nicht zu genügen, es technisch nicht umsetzen zu können, keinen Fallback wie im Angestelltenverhältnis mehr zu haben > Unsicherheiten!, emotional dem nicht gewachsen zu sein (zumindest aktuell)*
+    *Eine gewisse Grundangst, es «nicht zu schaffen», also: wenig bis keine Jobs zu bekommen, den Anforderungen nicht zu genügen, es technisch nicht umsetzen zu können, keinen Fallback wie im Angestelltenverhältnis mehr zu haben > Unsicherheiten!, emotional dem nicht gewachsen zu sein (zumindest aktuell)*
 
 - Welche Vorteile siehst du in der Selbständigkeit verglichen mit deinem jetzigen Job?
 
-    *mehr Freiheiten in der Auftraggebendenwahl, meine eigenen Visionen verwirklichen, mehr Vernetzung mit anderen, freiere Zeiteinteilung, mehr Leidenschaft, Motivation und Sinn, weil "meins"*
+    *mehr Freiheiten in der Auftraggebendenwahl, meine eigenen Visionen verwirklichen, mehr Vernetzung mit anderen, freiere Zeiteinteilung, mehr Leidenschaft, Motivation und Sinn, weil «meins»*
 
 - Was brauchst du, um dich bereit zu fühlen?
 

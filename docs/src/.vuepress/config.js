@@ -85,7 +85,7 @@ module.exports = {
             {
               title: 'Umsetzen',
               collapsable: false,
-              children: ['/documentation/realization/intro.md', '/documentation/realization/consulting.md', '/documentation/realization/design.md'],
+              children: ['/documentation/realization/intro.md', '/documentation/realization/consulting.md', '/documentation/realization/design.md', '/documentation/realization/realization.md'],
             },
             {
               title: 'Zelebrieren',

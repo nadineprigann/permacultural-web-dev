@@ -2,7 +2,7 @@
 
 Zu Beginn wurde zur Findung eines roten Fadens erst einmal alle Ideen und Ressourcen auf Post-It's geschrieben, um hieraus dann im weiteren Verlauf eine Struktur bzw. sinnvolle Bezüge herzustellen. Hierbei war zu beachten, dass die Lernanliegen durch Projektideen abdeck- und die Limits durch Ressourcen aufhebbar sind. Durch diese Gruppierung zeichnete sich schnell eine Richtung ab, in die es gehen konnte: langfristig mein Lebensort, kurzfristig meine digital-permakulturelle Selbstständigkeit, die mich im besten Fall zum Lebensort bringt, sei es durch finanzielle Mittel oder durch hieraus entstehende Netzwerke.
 
-Hierfür wurden die Karten dann noch einmal in Bezug auf das sich abzeichnende Projekt angeordnet. Die grünen Post-It's zeigen die Projektidee "Selbstständigkeit als permakulturelle Webentwicklerin", blau symbolisieren die Limits wie bspw. "max. 4-Tage-Woche", orange stellen die Ressourcen wie "bereits Erfahrung mit Selbstständigkeit" dar und violett die Lernanliegen wie z. B. "stabiles Tech Stack".
+Hierfür wurden die Karten dann noch einmal in Bezug auf das sich abzeichnende Projekt angeordnet. Die grünen Post-It's zeigen die Projektidee «Selbstständigkeit als permakulturelle Webentwicklerin», blau symbolisieren die Limits wie bspw. «max. 4-Tage-Woche», orange stellen die Ressourcen wie «bereits Erfahrung mit Selbstständigkeit» dar und violett die Lernanliegen wie z. B. «stabiles Tech Stack».
 
 ![Clustern von Kategorien](../../../assets/images/IMG_9715.jpg "Clustern von Kategorien")
 

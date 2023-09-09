@@ -12,7 +12,7 @@ Anfangs steht immer ein Erstgespräch, in dem die Vorstellungen von Umfang, Desi
 
 Im weiteren Verlauf kann und wird häufig noch zielgerichtetere Klärung vonnöten sein. Hierfür habe ich einige permakulturelle Methoden herausgegriffen, die mich bei diesem Findungs- und Definitionsprozess zusammen mit den Auftraggebenden untersützen können. Diese können je nach Bedarf als eine Art Workshop oder Mini-Input eingebracht werden. Sie werden im Folgenden der logischen Abfolge nach genannt und kurz vorgestellt.
 
-##  Dragon Dreaming
+##  Dragon Dreaming / IKIGAI
 
 Soll helfen, die Perspektive zu öffnen und völlig frei Leitsätze zu definieren. Folgende Fragen können hiermit u.a. beantwortet werden:
 
