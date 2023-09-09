@@ -30,7 +30,7 @@
 
 **Was brauchst du, um dich im Job gut und sinnvoll beschäftigt zu fühlen?**
 
-*Nachhaltige Unternehmen, die nachweislich ökologisch wirtschaften und in meinen Augen sinnvolle Projekte umsetzen. Weiter finde ich das Gefühl der “Ermöglichung” von Initiativen und Projekten sehr antreibend; gerade wenn deren Webseiten dann öffentlich wirksam werden. Auch ein erfolgreicher Abschluss eines Webprojektes sowie eine funktionierende Website sind sehr motivierend. Unablässig sind nette Partner + Kunden, die im besten Fall Mundpropaganda betreiben sowie meine eigene technische Kompetenz zu spüren.*
+*Nachhaltige Unternehmen, die nachweislich ökologisch wirtschaften und in meinen Augen sinnvolle Projekte umsetzen. Weiter finde ich das Gefühl der «Ermöglichung» von Initiativen und Projekten sehr antreibend; gerade wenn deren Webseiten dann öffentlich wirksam werden. Auch ein erfolgreicher Abschluss eines Webprojektes sowie eine funktionierende Website sind sehr motivierend. Unablässig sind nette Partner + Kunden, die im besten Fall Mundpropaganda betreiben sowie meine eigene technische Kompetenz zu spüren.*
 
 **Welchen Mehrwert haben Partner / Kunden durch die Zusammenarbeit mit dir?**
 
@@ -52,7 +52,7 @@
 
 *Es wird hier rechtzeitig, wenn sich ein Verzug abzeichnet, bspw. bei Krankheit, vereinbart, wie der weitere Verlauf des Projektes aussehen kann. Evtl. Fertigstellung von nur einem Teil des Projektes. Sollte es nicht mein Verschulden sein, bspw. durch ungeahnte technische Komplexität, wird neu verhandelt und ggf. ein Mehraufwand vereinbart.*
 
-**Was passiert, wenn ich bei Süpèr mehrmals hintereinander ein Projekt ablehne? Werde ich dennoch im Pool behalten und bleibe “relevant”? Wer übernimmt die abgelehnten Projekte?**
+**Was passiert, wenn ich bei Süpèr mehrmals hintereinander ein Projekt ablehne? Werde ich dennoch im Pool behalten und bleibe «relevant? Wer übernimmt die abgelehnten Projekte?**
 
 *Hier hilft offene Kommunikation, warum ich gerade Vieles ablehne. Evtl. habe ich selbst ein grosses Projekt, bei welchem ich Hilfe benötige. So könnte eine Kollaboration beiden Seiten zur effizienteren Bearbeitung der Projekte verhelfen.*
 
@@ -145,7 +145,7 @@
 
 **Was passiert, wenn ich einmal mehrmals hintereinander ein Projekt ablehne, weil ich vielleicht selbst mit anderen beschäftigt bin?**
 
-*Hier ist mir "ehrliche" Planung wichtig. Baue dir lieber Puffer ein und kommuniziere eher mehr als zu wenig. Sollte es spontan nicht funktionieren, evaluieren wir, warum das nun passiert.*
+*Hier ist mir «ehrliche» Planung wichtig. Baue dir lieber Puffer ein und kommuniziere eher mehr als zu wenig. Sollte es spontan nicht funktionieren, evaluieren wir, warum das nun passiert.*
 
 **Welche bekannten und vermuteten Gefahren gibt es deinerseits?**
 
