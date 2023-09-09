@@ -33,6 +33,34 @@ body {
   }
 }
 
+table {
+  margin-top: 2em;
+  margin-bottom: 4em;
+
+  tr {
+    background-color: transparent !important;
+  }
+
+  tr,
+  th,
+  td {
+    border: none;
+  }
+  
+  th:nth-child(odd),
+  td:nth-child(odd) {
+    border-right: $textColorDark 1px solid;
+  }
+
+   td {
+    border-bottom: $textColorDark 1px dashed;
+  }
+
+  th {
+    border-bottom: $textColorDark 1px solid;
+  }
+}
+
 html,
 .theme-container,
 .navbar,
@@ -73,9 +101,22 @@ html,
   margin-top: 15%;
 }
 
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3 {
+  font-size: 1em;
+}
+
 .page {
   overflow-x: hidden;
 }
+
 
 .container {
   > img {
@@ -83,16 +124,12 @@ html,
   }
 }
 
- h1 {
-  font-size: 1.5em;
- }
+.objectives {
+  text-align: center;
+  font-weight: bold;
+  color: darken($accentColor, 10%);
+  padding: 5em;
 
- h2 {
-  font-size: 1.2em;
- }
-
- h3 {
-  font-size: 1em;
- }
+}
 
  

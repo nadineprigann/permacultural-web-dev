@@ -17,3 +17,7 @@ Es wurde im Verlauf des Projektes klar, dass der Workflow nicht nur die eigentli
 ##  Weitere Zusammenarbeit perspektivisch möglich
 
 Ich konnte in der Planungsphase des Projektes bereits erste Gespräche mit meinem Chef darüber führen, wie eine weitere Zusammenarbeit aussehen kann, wenn ich selbstständig arbeite. Dies hatte ursprünglich den Hintergrund, die (teils) backend- und serverseitige Entwicklung sowie die Wartung des Codes auf dessen Template die neuen Projekte basieren, sicherzustellen. Bei näherer Betrachtung ergab sich aus diesen Gedanken aber ein relativ stabile Idee der Zusammenarbeit: er könnte nicht nur die (komplexeren) Backends erstellen, für die mir (noch) die Kompetenz fehlt, sondern kann auch als beratende Instanz ansprechbar bleiben. Dies kann ebenfalls vergütet werden. Ausserdem können wir wechselseitig Projekte in die Zusammenarbeit einbringen, in denen ich weiterhin den Frontend-Teil übernehme und er weiterhin das Backend.
+
+## Sukzessionsplanung
+
+Die Sukzessionsplanung hat eine enorme Wichtigkeit erfahren, da sie mir ermöglicht, ins Handeln zu kommen und in weiteren Iterationen verschiedene Anpassungen zu machen, die mich langfristig nachhaltiger arbeiten lassen.

@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Permacultural Web Development',
+  title: 'Permakulturelle Webentwicklung',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -32,7 +32,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: true,
     nav: [
       {
         text: 'Dokumentation',
@@ -73,12 +73,12 @@ module.exports = {
               children: ['/documentation/observe/objectives-limits.md', '/documentation/observe/objectives.md', '/documentation/observe/9-ways.md', '/documentation/observe/user-interview.md', '/documentation/observe/inventory.md'],
             },
             {
-              title: 'Analyse',
+              title: 'Analysieren',
               collapsable: false,
               children: ['/documentation/analysis/io-analysis.md', '/documentation/analysis/patterns.md'],
             },
             {
-              title: 'Design',
+              title: 'Designen',
               collapsable: false,
               children: ['/documentation/design/intro.md', '/documentation/design/inventory.md', '/documentation/design/process-model.md', '/documentation/design/ethics.md', '/documentation/design/principle-sets.md', '/documentation/design/tools-partner.md' ],
             },
@@ -93,9 +93,9 @@ module.exports = {
               children: ['/documentation/celebration/celebration.md'],
             },
             {
-              title: 'Tweak',
+              title: 'Tweaking',
               collapsable: false,
-              children: ['/documentation/tweaking/intro.md', '/documentation/tweaking/funding.md','/documentation/tweaking/zone.md'],
+              children: ['/documentation/tweaking/intro.md', '/documentation/tweaking/zone.md', '/documentation/tweaking/funding.md', '/documentation/tweaking/consulting.md'],
             },
           ]
         }
@@ -116,7 +116,6 @@ module.exports = {
       ],
     },
   },
-
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
