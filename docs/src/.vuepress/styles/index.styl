@@ -33,6 +33,34 @@ body {
   }
 }
 
+table {
+  margin-top: 2em;
+  margin-bottom: 4em;
+
+  tr {
+    background-color: transparent !important;
+  }
+
+  tr,
+  th,
+  td {
+    border: none;
+  }
+  
+  th:nth-child(odd),
+  td:nth-child(odd) {
+    border-right: $textColorDark 1px solid;
+  }
+
+   td {
+    border-bottom: $textColorDark 1px dashed;
+  }
+
+  th {
+    border-bottom: $textColorDark 1px solid;
+  }
+}
+
 html,
 .theme-container,
 .navbar,
