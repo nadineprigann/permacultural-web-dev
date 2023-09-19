@@ -14,12 +14,14 @@ Im weiteren Verlauf kann und wird häufig noch zielgerichtetere Klärung vonnöt
 
 ##  Dragon Dreaming / IKIGAI
 
-Soll helfen, die Perspektive zu öffnen und völlig frei Leitsätze zu definieren. Folgende Fragen können hiermit u.a. beantwortet werden:
+Diese Methode wurde von John Croft entwickelt und ist extrem beeinflusst durch die Sprache und Methodik der Indigenen Westausaustraliens, den Nyungar. Die Methode soll durch ihren spielerischen und kollaborativen Charakter helfen, die Perspektive zu öffnen und völlig frei Leitsätze zu definieren. Folgende Fragen können hiermit u.a. beantwortet werden:
 
 - Was ist das Ziel / Vision des Projektes?
 - Welche Features soll das Projekt haben?
 - Was macht das Projekt besonders?
 - Wo steht das Projekt in 5 Jahren?
+
+<c-text-block text="Lektüreempfehlung: Das Dragon Dreaming Playbook – Ilona Koglin + Julia Kommerell" label="info" class="label-info" />
 
 ##  SMART-Ziele
 

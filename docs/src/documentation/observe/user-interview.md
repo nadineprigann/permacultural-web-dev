@@ -98,6 +98,8 @@
 
 *Ca. 50% möchte ich zur Altersvorsorge in nachhaltige ETF’s anlegen. Die restlichen 50% sollen zu je 25% auf ein Tagesgeldkonto zur Finanzierung kurzfristiger Anschaffungen wie Werkzeuge, Weiterbildungen oder auch mal die kaputte Waschmaschine überwiesen werden und in eine Traumdose (virtuelles Konto) für eine Fläche für meinen Lebensort oder auch ein Tiny-House gepackt werden. Langfristig möchte ich aber auch kleinere Initiativen mit Spenden oder Finanzierungen unterstützen.*
 
+Nadine wünscht sich abwechslungsreichere Arbeit mit mehr Lernoptionen in Sachen Methodik, Tech Stack und kreative Bereiche. Der Fokus auf Nachhaltigkeit in Workflow und Kund:innenauswahl ist ihr extrem wichtig. Freie Zeiteinteilung und weniger Computerarbeit spielen ebenfalls eine grosse Rolle. Sie möchte sich selbstständig machen, aber dennoch auf freier Basis mit Daniel zusammenarbeiten.
+
 ##  Daniel (Chef)
 
 **Wie nimmst du die Situation aktuell wahr?**
@@ -149,7 +151,7 @@
 
 **Welche bekannten und vermuteten Gefahren gibt es deinerseits?**
 
-*In Bezug auf uns als Team: weniger enge Zusammenarbeit, Kunden wandern ab, keine Zusammenarbeit mehr. Generell: Webseite schmiert ab, Verletzung der Sorgfaltspflicht ggü. Auftraggebenden, wenn ihre Passwörter in unseren safe gehackt werden sollten. -> Verischerung hierfür?*
+*In Bezug auf uns als Team: weniger enge Zusammenarbeit, Kunden wandern ab, keine Zusammenarbeit mehr. Generell: Webseite schmiert ab, Verletzung der Sorgfaltspflicht ggü. Auftraggebenden, wenn ihre Passwörter in unseren safe gehackt werden sollten. -> Versicherung hierfür?*
 
 **Für wen, woran und mit wem würdest du gerne (mal) zusammenarbeiten?**
 
@@ -158,3 +160,5 @@
 **Möchtest du noch was ergänzen oder los werden?**
 
 *Wollte nur noch sagen, dass ich finde, dass wir eine echt coole Zusammenarbeit haben. Ich möchte sie gerne so weiterführen, denn ich sehe auch deine Entwicklung: es greift alles immer besser ineinander, du bringst dich ein etc. Das finde ich schön zu sehen.*
+
+Daniel ist sehr zufrieden mit der Zusammenarbeit und der Entwicklung von Nadine im Team. Er hat Sorge, dass diese Zusammenarbeit bei einer Selbstständigkeit von Nadine ins Wanken gerät. Verbessern möchte er die methodische Effizienz und die Ausrichtung auf Nachhaltigkeit im Team.

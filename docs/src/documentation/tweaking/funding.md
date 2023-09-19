@@ -4,7 +4,7 @@ Die finanzielle Frage wurde zentraler als erwartet, denn meine Auftraggebenden s
 
 Aus diesem Grund muss dringend ein flexbiles und vielseitiges Konzept erarbeitet werden, wie dieser Ausgleich geschaffen werden und ich gleichzeitig ökonomisch sinnvoll zu finanziellen Mitteln komme, um mein Leben zu finanzieren.
 
-Mögliche Wegen können u. a. sein:
+Mögliche Wege können u. a. sein:
 
 ## Crowdfunding
 
@@ -20,3 +20,5 @@ Mögliche Wegen können u. a. sein:
 ## Resourcen
 
 - [existenzgründer.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Gruendung-im-Ueberblick/inhalt.html)
+
+Weiter ist noch klar geworden, dass Meilensteine, bspw. das Ende einer jeden Phase (Consulting, Design, Umsetzung) unbedingt als Abschlagszahlungstermine genutzt werden sollten, damit die bis dahin geleistete Arbeit vergütet und ein regelmässigerer (Cash) Flow aufrechterhalten wird. Damit das sauber funktioniert, muss das beim Initial Call transparent und klar mitgeteilt werden. Mut ist hier sehr wichtig.
