@@ -1,6 +1,6 @@
 # 9 Ways of Starhawk
 
-Als erste Intervention, um das Projekt etwas klarer zu definieren, habe ich mir Fragen gestellt, welche mich gerade beschäftigen und somit einen Einstieg in mögliche kritische Punkte zu geben. Sie sind der Sektion «I wonder» von den <c-external-link url="https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy" label="9 Ways of Starhawk"/> entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
+Als erste Intervention, um das Projekt etwas klarer zu definieren, habe ich mir Fragen gestellt, welche mich gerade beschäftigen und somit einen Einstieg in mögliche kritische Punkte zu geben. Sie sind der Sektion «I wonder» von den [9 Ways of Starhawk](https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy) entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
 
 1. Wo ist die Besonderheit / USP dieses businesses?
 
