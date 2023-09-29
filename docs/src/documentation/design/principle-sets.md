@@ -1,5 +1,7 @@
 #  Prinzipiensets
 
+##  Holmgren
+
 Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 Prinzipien von David Holmgren](https://permacultureprinciples.com/permaculture-principles/) und entdeckte so beispielsweise bereits recht früh, dass mein Projekt davon profitieren kann, wenn ich das Prinzip der Ernte auf mein Projekt anpasse. Im Folgenden nun eine Auflistung der Prinzipien und was sie für mein Projekt bedeuten können:
 
 1. Observe and interact
@@ -32,7 +34,7 @@ Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 P
 
 8. Integrate rather than segregate
 
-    Anfangs werden noch nicht alle Auftraggebenden aus der nachhaltigen Ecke kommen, weshalb die, die es nicht sind, trotzdem integriert werden sollten. Auch Menschen, die im gleichen Bereich arbeiten oder sogar Konkurrenz sein könnten, können als Kollaborationspartner oder für projektbasierte Arbeit hinzugezogen werden. Sie haben evtl. in bestimmten Bereichen mehr Wissen und Probleme können kompetenter gelöst werden. Hiervon können dann alle Beteiligten profitieren. Konkret kann hier mein Chef / Partner von [Süpèr](https://super.asdf.af/) genannt werden. Auch Auftraggebende dürfen gerne aktiver in den Enstehungsprozess ihres Projektes eingebunden werden. Dadurch werden Hierarchien flacher, die Kommunikation zentraler und Feedbackloops kürzer. Im weiteren Verlauf können sie dann sogar Kooperationspartner werden.
+    Anfangs werden noch nicht alle Auftraggebenden aus der nachhaltigen Ecke kommen, weshalb die, die es nicht sind, trotzdem integriert werden sollten. Auch Menschen, die im gleichen Bereich arbeiten oder sogar Konkurrenz sein könnten, können als Kollaborationspartner oder für projektbasierte Arbeit hinzugezogen werden. Sie haben evtl. in bestimmten Bereichen mehr Wissen und Probleme können kompetenter gelöst werden. Hiervon können dann alle Beteiligten profitieren. Konkret kann hier mein Chef / Partner von [Süpèr](https://sprspr.dev/) genannt werden. Auch Auftraggebende dürfen gerne aktiver in den Enstehungsprozess ihres Projektes eingebunden werden. Dadurch werden Hierarchien flacher, die Kommunikation zentraler und Feedbackloops kürzer. Im weiteren Verlauf können sie dann sogar Kooperationspartner werden.
 
 9. Use small and slow solutions
 
@@ -51,7 +53,9 @@ Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 P
 
     Die Tools sollen so gewählt sein, dass sie mit Veränderungen am Markt oder der Auftraggebenden umgehen können. Weiter sollte es immer eine Option geben, falls ein bereits genutztes Tool nicht mehr verfügbar ist. Der Code soll so umgesetzt sein, dass Anpassungen ohne grossen Mehraufwand getätigt werden können. Hilfreich ist hier der modulare Aufbau des Codes mit Komponenten. Wichtig ist weiter eine gute Dokumentation und Programmierkonzepte, die zukünftige Funktionen bereits mitdenken wie bspw. [Graceful Degradation](https://developer.mozilla.org/en-US/docs/Glossary/Graceful_degradation) oder [Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Glossary/Progressive_Enhancement).
 
-Im Weiteren Verlauf, besonders im Design- und Umsetzungsschritt wurden allerdings die **Ökosystemkriterien** immer zentraler, da sie mir in diesen Phasen besonders mit den Prinzipien der Durchlässigkeit sowie der Kooperation weiterhalfen.
+## Ökosystemkriterien
+
+Im Weiteren Verlauf, besonders im Design- und Umsetzungsschritt wurden allerdings die [**Ökosystemkriterien**](https://cloud.nadineprigann.de/index.php/s/jDGkt2qKdMGtJB6) immer zentraler, da sie mir in diesen Phasen besonders mit den Prinzipien der Durchlässigkeit sowie der Kooperation weiterhalfen.
 
 **1. Kooperation**: Aktives Zusammenarbeiten, auch mit «systemfremden Akteueren» -> erweitert das Netzwerk, verbreitet die permakulturelle Herangehensweise und macht Workflow resilienter (-> «raus aus der PK-Blase»). Siehe Prinzipien #8, #10 und #11 von David Holmgren.
 
