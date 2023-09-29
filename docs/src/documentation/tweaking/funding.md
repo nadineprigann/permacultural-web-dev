@@ -14,8 +14,15 @@ Mögliche Wege können u. a. sein:
 
 ##  Förderungen
 
-- [DE.DIGITAL – Gründerwettbewerb](https://www.de.digital/DIGITAL/Navigation/DE/Gruenderwettbewerb/gruenderwettbewerb.html)
-- [Gründungszuschuss](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/gruendungszuschuss-beantragen)
+Entweder ich als Entwicklerin im Bereich nachhaltige Digitalisierung oder meine Kund:innen, die meistens Vereine sind, können Förderungen beantragen, die ganz oder teilweise die finanziellen Kosten für die Erstellung der Seite decken können. Hier wird eine nicht abschliessende Liste mit möglichen Fördermitteln zusammengetragen, die stetig genutzt und aktualisiert werden soll. Hast du einen Tipp oder eine Idee, die hier noch nicht aufgeführt ist? Gib gerne unter [dev@nadineprigann.de](mail.to:dev@nadineprigann.de) laut.
+
+| Name | Art | Zeitpunkt |
+| :- | :- | :- |
+| [DE.DIGITAL – Gründerwettbewerb](https://www.de.digital/DIGITAL/Navigation/DE/Gruenderwettbewerb/gruenderwettbewerb.html) | Wettbewerb | 2x / Jahr |
+| [Gründungszuschuss](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/gruendungszuschuss-beantragen) | Zuschuss | jederzeit |
+| [Prototype Fund](https://prototypefund.de/) | Zuschuss | 2x / Jahr |
+| [Deutsche Stiftung für Ehrenamt](https://foerderdatenbank.d-s-e-e.de/) | - | - |
+| [Förderdatenbank](https://www.foerderdatenbank.de/FDB/DE/Home/home.html) | - | - |
 
 ## Resourcen
 
