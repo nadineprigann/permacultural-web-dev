@@ -47,8 +47,8 @@ table {
     border: none;
   }
   
-  th:nth-child(odd),
-  td:nth-child(odd) {
+  th:not(:last-of-type),
+  td:not(:last-of-type) {
     border-right: $textColorDark 1px solid;
   }
 
