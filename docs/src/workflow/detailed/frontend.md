@@ -22,11 +22,11 @@ Auf Grundlage des Designs und Backends wird erst eine Skizze der Komponentenstru
 
 Diese Struktur wird nun mit den Codekomponenten erstellt. Hierfür werden diese aus der Codebase eingesetzt oder komplett neu erstellt. Zu beachten sind die [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) und die [WAI-ARIA-Guides](https://www.w3.org/TR/wai-aria-1.2/).
 
-Bereits bestehender Code aus vorherigen Projekten kann und soll wiederverwendet werden. Ziel dieses Schrittes ist es, alle Daten, die im Backend abgefüllt werden können, im Frontend sichtbar zu machen und somit ihre Funktionalität zu etablieren. Die Designvorgaben und hierdurch das Layout sollten hier bereits berücksichtigt werden, da dies oft bereits in der HTML-Struktur berücksichtigt werden muss.
+Bereits bestehender Code aus vorherigen Projekten kann und soll wiederverwendet werden. Ziel dieses Schrittes ist es, alle Daten, die im Backend abgefüllt werden können, im Frontend sichtbar zu machen und somit ihre Funktionalität zu etablieren. Die Designvorgaben und hierdurch das Layout sollten hier bereits berücksichtigt werden, da dies oft bereits in der HTML-Struktur mitgedacht werden muss.
 
 ##  Layout
 
-Nun folgt die Erstellung eines groben Layouts mithilfe von [CSS (Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)). In diesem Schritt werden responsive Layoutkonzepte erstellt und ggf. die HTML-Struktur der Komponenten bei Bedarf überarbeitet.
+Nun folgt die Erstellung eines groben Layouts mithilfe von [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS). In diesem Schritt werden responsive Layoutkonzepte erstellt und ggf. die HTML-Struktur der Komponenten bei Bedarf verfeinert.
 
 ##  Navigation
 
@@ -46,17 +46,18 @@ Nachdem die Schriftgrössen definiert sind, folgen die horizontalen Abstände. Z
 
 ##  Vertikale Abstände
 
-Im Anschluss folgen die vertikalen Abstände, die nach dem gleichen Prinzip realisiert werden. Hierzu zählen auch `max-width`s, Tabellenweiten und deren maximale Breiten.
+Im Anschluss folgen die vertikalen Abstände, die nach dem gleichen Prinzip realisiert werden. Hierzu zählen auch `max-width`'s, Tabellenweiten und deren maximale Breiten.
 
 ##  Icons
 
 Generell sollten textliche Linkinhalte verwendet werden um eine möglichst gute [accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) zu garantieren, denn screen readers lesen in diesem Fall den Text vor, der bei wohlüberlegter Formulierung aussagekräftiger ist als ein Icon. Sollten dennoch Icons verwendet werden, sollten [Unicode-Zeichen](https://unicode-table.com/en/) oder bei einer neu erstellten Schrift die Zeichen in die Schrift als Glyphen eingebunden werden. So kann sichergestellt werden, dass keine weitere externe Ressource geladen werden muss.
 
-Wenn das nicht möglich ist, dann sollten [SVG's](https://developer.mozilla.org/en-US/docs/Web/SVG) so sparsam wie möglich eingesetzt werden. Beispielsweise kann für die Navigationspfeile von Slideshows dassselbe Icon verwendet werden; es muss nur eines via [CSS (Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)) gedreht werden.
+Wenn das nicht möglich ist, dann sollten [SVG's](https://developer.mozilla.org/en-US/docs/Web/SVG) so sparsam wie möglich eingesetzt werden. Beispielsweise kann für die Navigationspfeile von Slideshows dassselbe Icon verwendet werden; es muss nur eines via [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS) gedreht werden.
 
-Sollten verschiedene Farbvarianten des selben Icons notwendig sein, kann dies ebenfalls mit [CSS (Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)) und diesem [CSS Filter Generator](https://codepen.io/sosuke/pen/Pjoqqp)
+Sollten verschiedene Farbvarianten des selben Icons notwendig sein, kann dies ebenfalls mit [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS) und diesem [CSS Filter Generator](https://codepen.io/sosuke/pen/Pjoqqp)
 realisiert werden.
- Wichtig ist ausserdem grundsätzlich, die SVG's zu komprimieren und zu optimieren. Hierbei werden, beispielsweise mit [SVG OMG](https://jakearchibald.github.io/svgomg/), unnötige Metadaten entfernt und so signifikant Dateigrösse eingespart.
+
+Wichtig ist ausserdem grundsätzlich, die SVG's zu komprimieren und zu optimieren. Hierbei werden, beispielsweise mit [SVG OMG](https://jakearchibald.github.io/svgomg/), unnötige Metadaten entfernt und so signifikant Dateigrösse eingespart.
 
 ##  Links, focus, Farben
 
