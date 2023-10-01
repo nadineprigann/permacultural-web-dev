@@ -10,15 +10,7 @@ This project documents the process of developing a web development workflow base
 
 ## Installation
 
-Within the `/docs/` folder run the following command:
-
-`npm install` or `npm i`
-
-To start developing, run...
-
-```console
-npm run dev
-```
+Within the `/docs/` folder run `npm install` or `npm i` to install all necessary dependencies. To start developing, run `npm run dev`.
 
 ## Deployment
 
