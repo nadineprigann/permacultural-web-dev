@@ -1,6 +1,6 @@
 # Documentation of creating a workflow for permacultural web products
 
-This project documents the process of developing a web development workflow based on permacultural principles which aims to be more sustainable than conventional web development practices.
+This project documents the process of developing a web development workflow based on permacultural principles which aims to be more sustainable than conventional web development practices. The documentation itself is based on [VuePress](https://vuepress.vuejs.org/) v1, a [Vue](https://vuejs.org/)-powered static site generator.
 
 ## Preparation
 
