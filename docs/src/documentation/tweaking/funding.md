@@ -28,4 +28,4 @@ Entweder ich als Entwicklerin im Bereich nachhaltige Digitalisierung oder meine 
 
 - [existenzgründer.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Gruendung-im-Ueberblick/inhalt.html)
 
-Weiter ist noch klar geworden, dass Meilensteine, bspw. das Ende einer jeden Phase (Consulting, Design, Umsetzung) unbedingt als Abschlagszahlungstermine genutzt werden sollten, damit die bis dahin geleistete Arbeit vergütet und ein regelmässigerer (Cash) Flow aufrechterhalten wird. Damit das sauber funktioniert, muss das beim Initial Call transparent und klar mitgeteilt werden. Mut ist hier sehr wichtig.
+Weiter ist noch klar geworden, dass Meilensteine, bspw. das Ende einer jeden Phase (Consulting, Design, Umsetzung) unbedingt als Abschlagszahlungstermine genutzt werden sollten, damit die bis dahin geleistete Arbeit vergütet und ein regelmässigerer (Cash) Flow aufrechterhalten wird. Damit das sauber funktioniert, muss das beim [Initial Interview](../../workflow/detailed/consulting.html#initial-interview) transparent und klar mitgeteilt werden. Mut ist hier sehr wichtig.

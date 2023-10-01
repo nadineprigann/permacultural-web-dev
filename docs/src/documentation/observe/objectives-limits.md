@@ -8,7 +8,8 @@ Hierfür wurden die Karten dann noch einmal in Bezug auf das sich abzeichnende P
 
 Grob zusammenfassend ergaben sich folgende Ergebnisse aus dieser Analyse:
 
-- Tech Stack (technisches Skillset) muss noch ausgebaut werden, um sicherer und kompetenter zu werden / zu fühlen.
+- es gibt bereits Erfahrung mit Selbstständigkeit und ihren steuerlichen / administrativen Vorgängen
+- Tech Stack (technisches Skillset) ist vorhanden, muss aber noch detaillierter ausgebaut werden, um sicherer und kompetenter zu werden / zu fühlen.
 
  <c-text-block text="Onlinekurse und Praktika / vertiefende Erfahrung im Angestelltenbereich können hilfreich sein" label="resource" class="label-resource"/>
 
@@ -22,4 +23,4 @@ Grob zusammenfassend ergaben sich folgende Ergebnisse aus dieser Analyse:
 - resiliente Struktur kreiern, in der Selbstständigkeit nicht die einzige Säule ist.
 - Lernoptionen wie Praktikas / Schulungen / ..., aber auch landbasierte Permakultur Platz findet.
 
-Dies ist nun sozusagen die Ausgangslage, mit der ich an mein Projekt herantrete. Es wird mir deutlich, wo ich noch Hindernisse und evtl. sogar Mankos habe, an denen ich arbeiten darf, aber öffnet auch den Blick für all das, was schon da ist und eingebunden werden kann. Hiervon kann ich ableiten, welche kleineren Schritte als nächstes gegangen werden können, um Limits mit Lernanliegen überwindbar zu machen.
+Dies ist nun sozusagen die Ausgangslage, mit der ich an mein Projekt herantrete. Es wird mir deutlich, wo ich noch Hindernisse und evtl. sogar Mankos habe, an denen ich arbeiten darf, aber öffnet auch den Blick für all das, was schon da ist und eingebunden werden kann. Die folgende Beobachtungsphase soll nun helfen, die aktuelle Lage etwas genauer kennenzulernen. Hiervon kann ich dann ableiten, welche Schritte es als Nächstes braucht, um Limits mit Lernanliegen überwindbar zu machen.

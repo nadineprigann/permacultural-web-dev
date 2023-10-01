@@ -18,7 +18,7 @@ Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 P
 
 4. Apply self-regulation + accept feedback
 
-    Zentrale Rolle soll der «Feedback- und Feierschritt» (angelehnt an die 4. Phase des Dragon Dreaming) in meinem Prozess sein. Hier geht es nach Abschluss eines Projektes darum, aktiv und intensiv die Ergebnisse und den Erfolg der Zusammenarbeit zu zelebrieren. Sehr wichtig ist hier auch ehrliches Feedback, das nicht nur geäussert, sondern mit einem Vorschlag der Einbindung / Verbesserung verbunden mitgeteilt werden soll. Dabei geht es nicht nur um das Projekt an sich, sondern auch zum Workflow dahinter, der mit diesem Basisjahrprojekt entwickelt werden soll. Interdiszipliänre und offene Fragen wie bspw. «Welcher Aspekt / Methode aus eurer Praxis kann meinen Workflow nachhaltiger machen?» können hier helfen.
+    Zentrale Rolle soll der «Feedback- und Feierschritt» (angelehnt an die 4. Phase des [Dragon Dreaming](../../workflow/detailed/consulting.html#dragon-dreaming-ikigai)) in meinem Prozess sein. Hier geht es nach Abschluss eines Projektes darum, aktiv und intensiv die Ergebnisse und den Erfolg der Zusammenarbeit zu zelebrieren. Sehr wichtig ist hier auch ehrliches Feedback, das nicht nur geäussert, sondern mit einem Vorschlag der Einbindung / Verbesserung verbunden mitgeteilt werden soll. Dabei geht es nicht nur um das Projekt an sich, sondern auch zum Workflow dahinter, der mit diesem Basisjahrprojekt entwickelt werden soll. Interdisziplinäre und offene Fragen wie bspw. «Welcher Aspekt / Methode aus eurer Praxis kann meinen Workflow nachhaltiger machen?» können hier helfen.
 
 5. Use + value renewable resources + services
 
@@ -47,7 +47,7 @@ Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 P
 
 11. Use edges + value the marginal
 
-    Randzonen können in diesem Fall Kooperartionspartner und / oder Aufgtragebende sein, die wenig mit Permakultur oder Webentwicklung zu tun haben. Sie können mit der Sicht aus ihrer Branche neue Inputs bringen, die den Workflow resilienter machen, entweder durch konkrete Ideen oder um sicherzustellen, dass meine Inhalte und Anliegen so klar wie möglich formuliert sind, damit sie auch an Menschen ohne Vorkenntnisse vermittelt werden können. Auch Projekte, bei denen es extrem schiwerig ist, diese nachhaltig oder permakulturell umzusetzen zählen hierzu.
+    Randzonen können in diesem Fall Kooperartionspartner und / oder Aufgtragebende sein, die wenig mit Permakultur oder Webentwicklung zu tun haben. Sie können mit der Sicht aus ihrer Branche neue Inputs bringen, die den Workflow resilienter machen, entweder durch konkrete Ideen oder um sicherzustellen, dass meine Inhalte und Anliegen so klar wie möglich formuliert sind, damit sie auch an Menschen ohne Vorkenntnisse vermittelt werden können. Auch Projekte, bei denen es extrem schwierig ist, diese nachhaltig oder permakulturell umzusetzen zählen hierzu.
 
 12. Creatively use and respond to change
 
@@ -67,13 +67,13 @@ Im Weiteren Verlauf, besonders im Design- und Umsetzungsschritt wurden allerding
 
 **5. Rückkoppelung**: Gute Auftraggeber werden zu Multiplikatoren, welche einerseits weitere Aufträge generieren, aber auch zu Kollaborationspartnern werden können. Optimierung durch Andere durch OpenSource-Ethik verbessert meine Arbeit nachhaltig. Ausführliches und an vielen Stellen eingeholtes Feedback ist zentraler Bestandteil des Projektes. Deckt sich teilweise mit Prinzip #4.
 
-**6. Durchlässigkeit**: Nutze durchlässige Grenzen wo möglich und nötig, um zum Ziel zu kommen. Beispielsweise wäre der Start in die Selbstständigkeit deutlich schiweriger, wenn alle Auftraggebenden ausgeschlossen werden würden, die keinen nachhaltigen Hintergrund haben. Natürlich muss es auch hier eine Begrenzung und Orientierung geben, aber kreative und kulturelle Akteure können bspw. problemlos und gerne mit einbezogen werden. Durch die Sukzession kann hier mit der Zeit mehr und mehr in der Auftraggeberauswahl verfeinert werden. Nimmt Bezug auf #10 und #11.
+**6. Durchlässigkeit**: Nutze durchlässige Grenzen wo möglich und nötig, um zum Ziel zu kommen. Beispielsweise wäre der Start in die Selbstständigkeit deutlich schwieriger, wenn alle Auftraggebenden ausgeschlossen werden würden, die keinen nachhaltigen Hintergrund haben. Natürlich muss es auch hier eine Begrenzung und Orientierung geben, aber kreative und kulturelle Akteure können bspw. problemlos und gerne mit einbezogen werden. Durch die Sukzession kann hier mit der Zeit mehr und mehr in der Auftraggeberauswahl verfeinert werden. Nimmt Bezug auf #10 und #11.
 
 **7. Eigendynamik**: Vertraue im Prozess des Projektes darauf, dass sich aus dem anfänglichen Potpourri etwas ergibt, mit dem man arbeiten kann. Es braucht Moderation und Führung, aber auch ein stückweit Eigendynamik. Auch im weiteren Verlauf der Beziehung zu den Auftraggebenden kann und darf gerne eine fruchtbare Eigendynamik entstehen.
 
 **8. Vernetzung**: Ergänzt Punkt 7 und 1 und Prinzip #8 und #10.
 
-**9. Wechselwirkung**: Die verschiedenen Interventionen und Bestandteile (Codebase, Projektmanagementtool als Workflow, etc) haben alle eine Beziehung zueinander und beeinflussen diese wechselseitig. Ausserdem kann ihre Wirksamkeit auf diese Wechselwirkung hin untersucht und daraus Erkenntnisse zur Optimierung abgeleitet werden. Mehr Infos hierzu findet sich in der [Input-Output-Analyse](../../documentation/analysis/io-analysis.md).
+**9. Wechselwirkung**: Die verschiedenen Interventionen und Bestandteile (Codebase, Projektmanagementtool als Workflow, etc) haben alle eine Beziehung zueinander und beeinflussen diese wechselseitig. Ausserdem kann ihre Wirksamkeit auf diese Wechselwirkung hin untersucht und daraus Erkenntnisse zur Optimierung abgeleitet werden. Mehr Infos hierzu finden sich in der [Input-Output-Analyse](../../documentation/analysis/io-analysis.md).
 
 Dieses Prinzipienset muss noch genauer beobachtet werden, um konkretere Aussagen treffen zu können. Generell lässt sich aber sagen, dass die Ökosystemkriterien meines Erachtens umfassender und tiefer zu meinem Projekt passen und dieses rahmen. Zudem sehe ich diesen Workflow als Art eigenständigen Ablauf an, welcher sich selbst erhalten und tragen muss und dadurch durchaus Sytemcharakter hat, auf welches diese Kriterien zutreffen.
 

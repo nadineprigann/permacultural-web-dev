@@ -1,6 +1,8 @@
 # Bestandsplan
 
-Durch meine Position als Junior Frontend Developer bei [Süpèr](https://sprspr.dev/) hatte ich bereits tiefen Einblick in unseren Arbeitsablauf und die Routinen, die sich in Zusammenarbeit mit Auftraggebenden, Gestaltenden und externen Kollaboratoren ergeben. Dieser Arbeitsablauf, einmal komplett von der ersten Kontaktaufname bis zur Fertigstellung des Auftrages dargelegt, soll den Bestandsplan des Projektes bilden, denn dieser Vorgang ist der Status Quo, mit dem aktuell gearbeitet wird.
+Durch meine Position als Junior Frontend Developer bei [Süpèr](https://sprspr.dev/) hatte ich bereits tiefen Einblick in unseren Arbeitsablauf und die Routinen, die sich in Zusammenarbeit mit Auftraggebenden, Gestaltenden und externen Kollaboratoren ergeben. Zusammen mit den durchgeführten Beobachtungsmethoden ergibt sich ein relativ umfassendes Bild dieses Ablaufs und den Akteuren. Dieser Arbeitsablauf, einmal komplett von der ersten Kontaktaufname bis zur Fertigstellung des Auftrages dargelegt, soll nun den Bestandsplan des Projektes bilden, denn dieser Vorgang ist der Status Quo, mit dem aktuell gearbeitet wird.
+
+<c-text-block text="Unbedingt ein ausführliches Feedback in den Prozess einbauen, um weitere Akteure wie Kund:innen, Gestaltende etc. anzuhören." label="sukzession" class="label-succession"/>
 
 Ich skizzierte [einige Varianten und Ideen](https://cloud.nadineprigann.de/index.php/s/maKeFqJ9JKAXTom). Schnell stellte ich fest, dass es hierfür womöglich einer eigenen visuellen Sprache bedarf, diesen komplexen Vorgang darzustellen.
 

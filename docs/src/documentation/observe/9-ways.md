@@ -1,6 +1,6 @@
 # 9 Ways of Starhawk
 
-Als erste Intervention, um das Projekt etwas klarer zu definieren, habe ich mir Fragen gestellt, welche mich gerade beschäftigen und somit einen Einstieg in mögliche kritische Punkte zu geben. Sie sind der Sektion «I wonder» von den [9 Ways of Starhawk](https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy) entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
+Als erste konkrete Beobachtungsintervention, um den aktuellen Stand etwas klarer zu erfassen, habe ich mir Fragen gestellt, welche mich gerade beschäftigen und somit einen Einstieg in mögliche kritische Punkte zu geben. Sie sind der Sektion «I wonder» von den [9 Ways of Starhawk](https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy) entnommen, einer Auflistung von 9 möglichen Möglichkeiten, einen Sachverhalt zu beobachten.
 
 1. Wo ist die Besonderheit / USP dieses businesses?
 
@@ -17,12 +17,12 @@ emotional gesehen?
 
 4. Befriedigt mich diese Tätigkeit emotional?
 
-    *Wenn ich für etwas arbeite, worin ich Sinn sehe, dann durchaus (Stichwort Auftragebende), aber nicht Vollzeit. Ich kann dieser Antwort auch noch Zeit geben, indem ich beobachte, wie es sich anfühlt, wenn ich unter den in dieser Doku beschriebenen Umstände arbeite. Sollte sich das nicht gut anfühlen, kann ich mich noch immer umorientieren oder probieren, noch weniger zu arbeiten.*
+    *Wenn ich für etwas arbeite, worin ich Sinn sehe, dann durchaus (Stichwort Auftragebende), aber nicht Vollzeit. Ich kann dieser Antwort auch noch Zeit geben, indem ich beobachte, wie es sich anfühlt, wenn ich unter den in dieser Doku beschriebenen Umständen arbeite. Sollte sich das nicht gut anfühlen, kann ich mich noch immer umorientieren oder probieren, noch weniger zu arbeiten.*
 
 5. Verdiene ich damit genug Geld, um meine Fixkosten decken zu können + noch für
 meine Ziele zu sparen?
 
-    *Basierend auf den Erfahrungen als Angestellte sollte das durchaus möglich sein. Allerdings muss natürlich ein Mindestmass an Stunden geleistet werden, um genug einzunehmen. Auch steuerliche Abgaben bzw. Rücklagen sollten berücksichtigt werden. Hieran kann ich mich sukzessiv durch Balance von Arbeitnehmerinnenstelle und Selbstständigkeit herantasten.*
+    *Basierend auf den Erfahrungen als Angestellte sollte das durchaus möglich sein. Allerdings muss natürlich ein Mindestmass an Stunden geleistet werden, um genug einzunehmen. Auch steuerliche Abgaben bzw. Rücklagen sollten berücksichtigt werden. Hieran könnte ich mich sukzessiv durch Balance von Arbeitnehmerinnenstelle und Selbstständigkeit herantasten.*
 
 6. Macht mir das überhaupt wirklich Spass?
 
@@ -49,7 +49,7 @@ kollaborieren wollen?
 
     *Ich denke ich muss mich nur im Netzwerk der Permakulturakademie umsehen und lokale Initiativen ansprechen, um Leute zu finden, die jemanden wie mich viel lieber beauftragen als eine Webentwicklerin ohne Permakulturhintergrund. Die Reaktionen, die ich bis jetzt erfahren habe, wenn ich über dieses Projekt sprach, sprechen ebenfalls eine eindeutige Sprache.*
 
-Es zeigt sich hier, dass viele Fragen aus einer nachvollziehbaren Unsicherheit und auch einer Angst, etwas zu übersehen und falsch zu machen stammen. Diese wiegen teilweise schwerer als die rein rational zu beantwortendenn Fragen, die man mit entsprechenden Schritten schneller abarbeiten kann. Umso wichtiger ist es für mich, mir diese Fragen zu stellen, damit ich sie angemessen bearbeiten kann. Ebenfalls wichtig ist es für mich, die Antworten aufzuschreiben, um immer wieder hierhin zurückkommen zu können und zu sehen, dass ich mich um diese Dinge kümmere, Antworten / Lösungsansätze herausgearbeitet habe und dabei bin, diese umzusetzen.
+Es zeigt sich hier, dass viele Fragen aus einer nachvollziehbaren Unsicherheit und auch einer Angst, etwas zu übersehen und falsch zu machen stammen. Diese wiegen teilweise schwerer als die rein rational zu beantwortenden Fragen, die man mit entsprechenden Schritten schneller abarbeiten kann. Umso wichtiger ist es für mich, mir diese Fragen zu stellen, damit ich sie angemessen bearbeiten kann. Ebenfalls wichtig ist es für mich, die Antworten aufzuschreiben, um immer wieder hierhin zurückkommen zu können und zu sehen, dass ich mich um diese Dinge kümmere, Antworten / Lösungsansätze herausgearbeitet habe und dabei bin, diese umzusetzen.
 
 Weiter wurden mir folgende Fragen aus der Basisjahr-Gruppe gestellt:
 
@@ -67,7 +67,7 @@ Weiter wurden mir folgende Fragen aus der Basisjahr-Gruppe gestellt:
 
 - Was brauchst du, um dich bereit zu fühlen?
 
-    *emotionale und finanzielle Sicherheit, genug Zeit zum Entwickeln der Vorgehensweise, Netzwerk für erfolgreiche Umsetzung, Kunden, emotionale Kapazität, evtl. ein Angestelltenjob nebenher, um Druck herauszunehmen*
+    *emotionale und finanzielle Sicherheit, genug Zeit zum Entwickeln der Vorgehensweise, gute Kenntnisse in den relevanten Bereichen des Workflows,    Netzwerk für erfolgreiche Umsetzung, Kunden, emotionale Kapazität, evtl. ein Angestelltenjob nebenher, um Druck herauszunehmen*
 
 - Was hält dich zurück in die Selbstständigkeit zu starten?
 
@@ -93,4 +93,4 @@ Weiter wurden mir folgende Fragen aus der Basisjahr-Gruppe gestellt:
 
     *Ja!*
 
-Es zeichnet sich ab, dass besonders emotionale und finanzielle Unsicherheiten verhindern, dass ich mich voll und ganz auf das Projekt einlassen kann. Der technische Fallback bzw. Workflow spielt hier nur eine zweitrangige Rolle. Diese kann mit Kollaborierenden gut abgedeckt werden.
+Es zeichnet sich ab, dass besonders emotionale und finanzielle Unsicherheiten verhindern, dass ich mich voll und ganz auf das Projekt einlassen kann. Der technische Fallback bzw. Workflow spielt hier nur eine zweitrangige Rolle. Diese kann mit Kollaborierenden gut abgedeckt werden. Es ist also besonders wichtig, sich diesen Unsicherheiten zu widmen, die natürlich auch als Warnsignal gesehen werden können.
