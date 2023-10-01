@@ -106,7 +106,7 @@ module.exports = {
           children: [
             '',
             {
-              title: 'In-depth workflows',
+              title: 'Ausführliche Teilschritte',
               collapsable: false,
               sidebarDepth: 2,    // optional, defaults to 1
               children: ['/workflow/detailed/consulting.md', '/workflow/detailed/design.md', '/workflow/detailed/backend.md', '/workflow/detailed/frontend.md', '/workflow/detailed/feedback.md'],

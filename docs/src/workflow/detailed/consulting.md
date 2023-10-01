@@ -1,6 +1,6 @@
 # Consulting
 
-Die erste Säule Consulting hat zum Ziel, eine genaue Vorstellung und Zieldefinition vom der Art und dem Umfang des digitalen Produktes zu erlangen, welches meine Auftraggebenden umsetzen möchten.
+Die erste Säule Consulting hat zum Ziel, eine genaue Vorstellung und Zieldefinition von der Art und dem Umfang des digitalen Produktes zu erlangen, welches meine Auftraggebenden umsetzen möchten.
 
 Hierbei ist es meiner Ansicht nach besonders wichtig, die Bedürfnisse und Anliegen, aber auch die Ressourcen und Limits der Kunden herauszuarbeiten, denn nur, wenn diese realistisch eingeschätzt und das Produkt dementsprechend entwickelt wird, kann dieses nachhaltig eingesetzt werden.
 
@@ -14,7 +14,7 @@ Im weiteren Verlauf kann und wird häufig noch zielgerichtetere Klärung vonnöt
 
 ##  Dragon Dreaming / IKIGAI
 
-Diese Methode wurde von John Croft entwickelt und ist extrem beeinflusst durch die Sprache und Methodik der Indigenen Westausaustraliens, den Nyungar. Die Methode soll durch ihren spielerischen und kollaborativen Charakter helfen, die Perspektive zu öffnen und völlig frei Leitsätze zu definieren. Folgende Fragen können hiermit u.a. beantwortet werden:
+Dragon Dreaming wurde von John Croft entwickelt und ist extrem beeinflusst durch die Sprache und Methodik der Indigenen Westausaustraliens, den Nyungar. Die Methode soll durch ihren spielerischen und kollaborativen Charakter helfen, die Perspektive zu öffnen und völlig frei Leitsätze zu definieren. Folgende Fragen können hiermit u.a. beantwortet werden:
 
 - Was ist das Ziel / Vision des Projektes?
 - Welche Features soll das Projekt haben?
@@ -22,6 +22,8 @@ Diese Methode wurde von John Croft entwickelt und ist extrem beeinflusst durch d
 - Wo steht das Projekt in 5 Jahren?
 
 <c-text-block text="Lektüreempfehlung: Das Dragon Dreaming Playbook – Ilona Koglin + Julia Kommerell" label="info" class="label-info" />
+
+Zusammen mit [IKIGAI](https://www.bbc.com/worklife/article/20170807-ikigai-a-japanese-concept-to-improve-work-and-life) kann hieraus eine starke Vision für das Projekt kreiert werden.
 
 ##  SMART-Ziele
 
@@ -39,11 +41,11 @@ Sammeln von Gedanken und Fakten in diesen 4 Kategorien, um einen Überblick übe
 
 ## 9 Ways of Observation
 
-Die Nutzung dieser [9 Wege](https://soconet.coyocloud.com/files/7fec2411-407c-40ae-b1c7-25d372f89e0d/edffbe3e-05db-41bc-9966-8185e1430a93/Neun%20Wege%20der%20Beobachtung_Starhawk_2019%20pdf) für das zu erstellende Projekt, seine Nutzenden oder Erstellenden hilft, zu einer konkreteren Vorstellung der Umsetzungsmögichkeiten des Projektes zu kommen.
+Die Nutzung dieser [9 Wege von Starhawk](https://cloud.nadineprigann.de/index.php/s/QPsfr5HJW3BDPcy) für das zu erstellende Projekt, seine Nutzenden oder Erstellenden hilft, zu einer konkreteren Vorstellung der Umsetzungsmögichkeiten des Projektes zu kommen.
 
 ##  Wheel Of Magicians
 
-Mit einer Gruppe von Menschen, evtl. das beauftragende Team, können aufkommende Fragen intuitiv beantwortet werden, beispielsweise als Follow-Up der 9 Wege der Beobachtung.
+Mit einer Gruppe von Menschen, evtl. das beauftragende Team, können aufkommende Fragen intuitiv beantwortet werden, beispielsweise als Follow-Up der 9 Wege der Beobachtung. Dies funktioniert so: man teilt eine Gruppe in Fragende und Antwortende und stellt sich im Kreis auf. Die Fragenden denken sich jede:r eine Frage zum Projekt aus, die sie jedem Antwortenden stellen. So werden viele Fragen mit vielen Antwortmöglichkeiten generiert, die nachher in der Gruppe reflektiert werden können.
 
 ## Bestandsplan
 
@@ -51,4 +53,4 @@ Die gewonnenen Informationen werden benutzt, um eine Erfassung der aktuellen Sit
 
 ##  Definition und Abnahme
 
-Besprechung des Bestandsplan mit Auftraggebenden, um eine Strategie zu entwickeln, was und wie ein digitales Produkt entwickelt werden kann, welches ihren und den Bedürfnissen ihrer Nutzenden gerecht wird. hier können bei Bedarf weitere und / oder oben genannte Methoden und Techniken zum Einsatz kommen. Hier werden nun, als Abschluss der Consultingphase, die erarbeiteten Strategien und Definitionen abgenommen.
+Besprechung des Bestandsplan mit Auftraggebenden, um eine Strategie zu entwickeln, was und wie ein digitales Produkt entwickelt werden kann, welches ihren und den Bedürfnissen ihrer Nutzenden gerecht wird. Hier können bei Bedarf weitere und / oder oben genannte Methoden und Techniken zum Einsatz kommen. Hier werden nun, als Abschluss der Consultingphase, die erarbeiteten Strategien und Definitionen abgenommen.

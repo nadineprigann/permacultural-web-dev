@@ -18,7 +18,7 @@ Auf Grundlage der Ethik und der Prinzipien der Permakultur sowie naheliegende Ko
 
 - es sollen ausschliesslich OpenSource-Projekte zum Einsatz kommen
 - sie sollten möglichst ohne Login und / oder finanziellem Ausgleich zu benutzen sein. Handelt es sich um OpenSource-lizenzierte Projekte, kann durch die Lizenzgebühr die entwickelnde Person untersützt werden, dieses Projekt weiter zu pflegen und OpenSource zur Verfügung zu stellen. Auch eine Spende kann und soll in Erwägung gezogen werden.
-- proprietäre Software wie Adobe-Produkte sind zwingend zu vermeiden
+- proprietäre Software wie [Adobe](https://www.adobe.com/de/)-Produkte sind zwingend zu vermeiden
 - wenn möglich, sollten datenschutzkonforme Tools benutzt werden, die weder Analysen durchführen, noch Daten ohne Zustimmung weiterverarbeiten -> Google Services sind demnach tabu. Auch Meta-Integrationen (Facebook, Instagram) sind abzulehnen
 
 Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen zusammengetragen werden. Diese sollte regelmässig überprüft, aufgearbeitet und ergänzt werden, da noch nicht alle Apps den oben genannten Anforderungen aus Mangel an Alternativen entsprechen. Einen guten Anhaltspunkt bietet [privacytools.io](https://www.privacytools.io/), die sichere OpenSource-Tools vorstellt.

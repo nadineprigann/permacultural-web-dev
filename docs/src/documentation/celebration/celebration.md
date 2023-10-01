@@ -1,10 +1,14 @@
 # Feiern der (End)Ergebnisse
 
-An diesem Punkt, dem Ende der ersten Iteration des Prozesses, ist nun wichtig, einen Moment innezuhalten und wahrzunehmen, was bis jetzt entstanden ist und welche Qualitäten dieses Ergebnis mit sich bringt.
+An diesem Punkt, dem Ende der ersten Iteration des Prozesses, ist nun wichtig, einen Moment innezuhalten und wahrzunehmen, was bis jetzt entstanden ist und welche Qualitäten dieses Ergebnis mit sich bringt. Im Folgenden erwähne ich einige Meilensteine:
 
 ## Workflow erstellt
 
-Ich konnte den bestehenden Workflow soweit vereinfacht darstellen und betrachten, dass mir ein erster Entwurf für eine permakulturelle Variante möglich war
+Ich konnte den bestehenden Workflow soweit vereinfacht darstellen und betrachten, dass mir ein erster Entwurf für eine permakulturelle Variante möglich war.
+
+## Kreative Kraft der Prinzipiensets + Muster
+
+Durch das Anwenden der Prinzipiensets sowie durch das Betrachten des Projektes durch die «Musterbrille» wurden unglaublich viel kreatives Potenzial frei und Ideen generiert. Diese Phasen waren extrem fruchtbar für den weiteren Prozess.
 
 ## Erstes Präzedenzprojekt
 
@@ -16,7 +20,7 @@ Es wurde im Verlauf des Projektes klar, dass der Workflow nicht nur die eigentli
 
 ##  Weitere Zusammenarbeit perspektivisch möglich
 
-Ich konnte in der Planungsphase des Projektes bereits erste Gespräche mit meinem Chef darüber führen, wie eine weitere Zusammenarbeit aussehen kann, wenn ich selbstständig arbeite. Dies hatte ursprünglich den Hintergrund, die (teils) backend- und serverseitige Entwicklung sowie die Wartung des Codes auf dessen Template die neuen Projekte basieren, sicherzustellen. Bei näherer Betrachtung ergab sich aus diesen Gedanken aber ein relativ stabile Idee der Zusammenarbeit: er könnte nicht nur die (komplexeren) Backends erstellen, für die mir (noch) die Kompetenz fehlt, sondern kann auch als beratende Instanz ansprechbar bleiben. Dies kann ebenfalls vergütet werden. Ausserdem können wir wechselseitig Projekte in die Zusammenarbeit einbringen, in denen ich weiterhin den Frontend-Teil übernehme und er weiterhin das Backend.
+Ich konnte in der Planungsphase des Projektes bereits erste Gespräche mit meinem Chef darüber führen, wie eine weitere Zusammenarbeit aussehen kann, wenn ich selbstständig arbeite. Dies hatte ursprünglich den Hintergrund, die (teils) backend- und serverseitige Entwicklung sowie die Wartung des Codes, auf dessen Template die neuen Projekte basieren, sicherzustellen. Bei näherer Betrachtung ergab sich aus diesen Gedanken aber eine relativ stabile Idee der Zusammenarbeit: er könnte nicht nur die (komplexeren) Backends erstellen, für die mir (noch) die Kompetenz fehlt, sondern kann auch als beratende Instanz ansprechbar bleiben. Dies kann ebenfalls vergütet werden. Ausserdem können wir wechselseitig Projekte in die Zusammenarbeit einbringen, in denen ich weiterhin den Frontend-Teil übernehme und er weiterhin das Backend.
 
 ## Sukzessionsplanung
 

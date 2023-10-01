@@ -1,4 +1,6 @@
-# User interview
+# User Interview
+
+Die User Interviews wurden mit mir selbst und Daniel, meinem jetzigen Chef bei [Süpér](https://sprspr.dev/) geführt. Ich habe ihn ausgewählt, da er Teil des aktuellen Arbeitsumfeldes ist und demnach die Zusammenarbeit und die Abläufe am besten reflektieren kann. Ausserdem möchte ich ihn, wie bereits beschrieben, als wichtigen Partner in meine selbstständige Praxis mit aufnehmen und daher auch seine Seite anhören.
 
 ## Nadine
 
@@ -98,7 +100,7 @@
 
 *Ca. 50% möchte ich zur Altersvorsorge in nachhaltige ETF’s anlegen. Die restlichen 50% sollen zu je 25% auf ein Tagesgeldkonto zur Finanzierung kurzfristiger Anschaffungen wie Werkzeuge, Weiterbildungen oder auch mal die kaputte Waschmaschine überwiesen werden und in eine Traumdose (virtuelles Konto) für eine Fläche für meinen Lebensort oder auch ein Tiny-House gepackt werden. Langfristig möchte ich aber auch kleinere Initiativen mit Spenden oder Finanzierungen unterstützen.*
 
-Nadine wünscht sich abwechslungsreichere Arbeit mit mehr Lernoptionen in Sachen Methodik, Tech Stack und kreative Bereiche. Der Fokus auf Nachhaltigkeit in Workflow und Kund:innenauswahl ist ihr extrem wichtig. Freie Zeiteinteilung und weniger Computerarbeit spielen ebenfalls eine grosse Rolle. Sie möchte sich selbstständig machen, aber dennoch auf freier Basis mit Daniel zusammenarbeiten.
+Ich wünsche mir abwechslungsreichere Arbeit mit mehr Lernoptionen in Sachen Methodik, Tech Stack und kreative Bereiche. Der Fokus auf Nachhaltigkeit in Workflow und Kund:innenauswahl ist mir extrem wichtig. Freie Zeiteinteilung und weniger Computerarbeit spielen ebenfalls eine grosse Rolle. Ich möchte mich selbstständig machen, aber dennoch auf freier Basis mit Daniel zusammenarbeiten.
 
 ##  Daniel (Chef)
 
@@ -162,3 +164,7 @@ Nadine wünscht sich abwechslungsreichere Arbeit mit mehr Lernoptionen in Sachen
 *Wollte nur noch sagen, dass ich finde, dass wir eine echt coole Zusammenarbeit haben. Ich möchte sie gerne so weiterführen, denn ich sehe auch deine Entwicklung: es greift alles immer besser ineinander, du bringst dich ein etc. Das finde ich schön zu sehen.*
 
 Daniel ist sehr zufrieden mit der Zusammenarbeit und der Entwicklung von Nadine im Team. Er hat Sorge, dass diese Zusammenarbeit bei einer Selbstständigkeit von Nadine ins Wanken gerät. Verbessern möchte er die methodische Effizienz und die Ausrichtung auf Nachhaltigkeit im Team.
+
+Für das Projekt bedeutet dies, dass vor allem ich die inhaltlichen Veränderungen suche. Ich möchte meine Arbeitsstruktur abwechslungsreicher gestalten und den Schwerpunkt auf Zusammenarbeit mit nachhaltigen Akteuren legen. Dennoch schätze ich die Zusammen- / Teamarbeit mit Daniel sehr, auch seine Erfahrung.
+
+<c-text-block text="Vielleicht lässt sich das Pensum bei Süpèr auf ca. 2 Tage / Woche reduzieren, um einerseits Zeit zur langsamen 'Abnabelung' zu haben und andererseits genügend Zeit für erste selbstständige Projekte zu haben." label="sukzession" class="label-succession"/>
