@@ -32,6 +32,6 @@ Entweder ich als Entwicklerin im Bereich nachhaltige Digitalisierung oder meine 
 
 - [existenzgründer.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Gruendung-im-Ueberblick/inhalt.html)
 
-Weiter ist noch klar geworden, dass Meilensteine, bspw. das Ende einer jeden Phase (Consulting, Design, Umsetzung) als Abschlagszahlungstermine genutzt werden sollten, damit die bis dahin geleistete Arbeit vergütet und ein regelmässigerer (Cash) Flow aufrechterhalten wird. Damit das sauber funktioniert, muss das beim [Initial Interview](../../workflow/detailed/consulting.html#initial-interview) transparent und klar mitgeteilt werden. Hierbei hilft auch ein Kostenplan, der ebenfalls bei Initial Interview oder dem Kick-off meeting vorgestellt wird.
+Weiter ist noch klar geworden, dass Meilensteine, bspw. das Ende einer jeden Phase (Vision, Design, Umsetzung) als Abschlagszahlungstermine genutzt werden sollten, damit die bis dahin geleistete Arbeit vergütet und ein regelmässigerer (Cash) Flow aufrechterhalten wird. Damit das sauber funktioniert, muss das beim [Initial Interview](../../workflow/detailed/vision.html#initial-interview) transparent und klar mitgeteilt werden. Hierbei hilft auch ein Kostenplan, der ebenfalls bei Initial Interview oder dem Kick-off meeting vorgestellt wird.
 
 In der weiteren Ausarbeitung des Projektes wurde für mich klar, dass es nicht die eine Finanzierungsoption gibt, sondern dass es, um Flexibilität und Vielseitigkeit und auch Resilienz zu gewährleisten, eine Mischung als all diesen Optione sein kann und soll.

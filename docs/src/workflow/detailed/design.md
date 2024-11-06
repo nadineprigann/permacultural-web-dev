@@ -2,7 +2,7 @@
 
 ## Initial Interview
 
-Besprechung der erarbeiteten Ergebnisse aus dem Consulting und ihrer Bedeutung für die gestalterische Umsetzung. Falls vorher kein Consulting stattgefunden hat, muss in Erwägung gezogen werden, trotz evtl. vorhandenem Design, zumindest einen kurzen beraterisch motivierten Consulting-Call anzusetzen, der Ziele und Intention klarer macht. Folgend eine Liste, die die wichtigen Punkte für diesen Abschnitt zusammenfasst:
+Besprechung der erarbeiteten Ergebnisse aus der Visionsphase und ihrer Bedeutung für die gestalterische Umsetzung. Falls vorher kein Visionsphase stattgefunden hat, muss in Erwägung gezogen werden, trotz evtl. vorhandenem Design, zumindest einen kurzen beraterisch motivierten Visions-Call anzusetzen, der Ziele und Intention klarer macht. Folgend eine Liste, die die wichtigen Punkte für diesen Abschnitt zusammenfasst:
 
 - Projektziele: intern definierte Ziele für das Projekt
 - Nutzendenbedürfnisse: extern hergeleitete Ziele für das Projekt; evaluiert durch Nutzendenbefragung und -feedback, Zielgruppenanalyse, etc. -> ethno-, techno- und psychografische Perspektiven berücksichtigen.

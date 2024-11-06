@@ -1,6 +1,6 @@
-# Consulting
+# Vision
 
-Die erste Säule Consulting hat zum Ziel, eine genaue Vorstellung und Zieldefinition von der Art und dem Umfang des digitalen Produktes zu erlangen, welches meine Auftraggebenden umsetzen möchten.
+Die erste Säule Vision hat zum Ziel, eine genaue Vorstellung und Zieldefinition von der Art und dem Umfang des digitalen Produktes zu erlangen, welches meine Auftraggebenden umsetzen möchten.
 
 Hierbei ist es meiner Ansicht nach besonders wichtig, die Bedürfnisse und Anliegen, aber auch die Ressourcen und Limits der Kunden herauszuarbeiten, denn nur, wenn diese realistisch eingeschätzt und das Produkt dementsprechend entwickelt wird, kann dieses nachhaltig eingesetzt werden.
 
@@ -53,4 +53,4 @@ Die gewonnenen Informationen werden benutzt, um eine Erfassung der aktuellen Sit
 
 ##  Definition und Abnahme
 
-Besprechung des Bestandsplan mit Auftraggebenden, um eine Strategie zu entwickeln, was und wie ein digitales Produkt entwickelt werden kann, welches ihren und den Bedürfnissen ihrer Nutzenden gerecht wird. Hier können bei Bedarf weitere und / oder oben genannte Methoden und Techniken zum Einsatz kommen. Hier werden nun, als Abschluss der Consultingphase, die erarbeiteten Strategien und Definitionen abgenommen.
+Besprechung des Bestandsplan mit Auftraggebenden, um eine Strategie zu entwickeln, was und wie ein digitales Produkt entwickelt werden kann, welches ihren und den Bedürfnissen ihrer Nutzenden gerecht wird. Hier können bei Bedarf weitere und / oder oben genannte Methoden und Techniken zum Einsatz kommen. Hier werden nun, als Abschluss der Visionsphase, die erarbeiteten Strategien und Definitionen abgenommen.
