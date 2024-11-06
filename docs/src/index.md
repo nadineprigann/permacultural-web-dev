@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Dieses Projekt dokumentiert den Prozess der Entwicklung eines Workflows für die Entwicklung von Websites basierend auf permakulturellen Prinzipien.
+tagline: Dieses Projekt dokumentiert den Prozess der Entwicklung eines Workflows für die Entwicklung von nachhaltigen Websites. Dieser setzt sich aus Aspekten der Permakultur, des Dragon Dreaming und des Design Thinking zusammen.
 
 # This project documents the process of developping a web development workflow based on permacultural principles.
 # actionText: Quick Start →
