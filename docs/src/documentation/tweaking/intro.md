@@ -2,7 +2,7 @@
 
 Im Evaluationsprozess nach dem [Zelebrieren](../../documentation/celebration/celebration.md) wurden viele Punkte sichtbar, die sehr gut funktionieren und mit Synergieeffekten ungeahnte positive Perspektiven öffnen. Es wurden nun aber auch einige Punkte sehr deutlich, die noch einmal fokussiert betrachtet werden sollten, da sie unerwartete Probleme / Aspekte hervorbrachten.
 
-Konkrekt sind diese Punkte einmal meine [Zone 0.0](../../documentation/tweaking/zone.md) und damit verbundene Aspekte der emotionalen Sicherheit und Stabilität sowie die [Frage nach der Finanzierung](../../documentation/tweaking/funding.md) als auch die Wichtigkeit des [Consulting-Teiles](../../documentation/tweaking/consulting.md). Weitere Punkte sind:
+Konkrekt sind diese Punkte einmal meine [Zone 0.0](../../documentation/tweaking/zone.md) und damit verbundene Aspekte der emotionalen Sicherheit und Stabilität sowie die [Frage nach der Finanzierung](../../documentation/tweaking/funding.md) als auch die Wichtigkeit des [Visions-Teiles](../../documentation/tweaking/vision.md). Weitere Punkte sind:
 
 - bessere Einarbeitung bzw. Applizierung der Ökosystemkriterien, die den Workflow an sich noch einmal bereichern können *> Ausarbeitung eines eigenen Prinzipiensets basierend auf Ethik und Ökosystemrkriterien*
 

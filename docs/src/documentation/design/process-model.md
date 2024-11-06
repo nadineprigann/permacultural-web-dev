@@ -1,6 +1,6 @@
 # Prozessmodell
 
-Das für die Umsetzung meiner Webprojekte gewählte Prozessmodell ist ein Hybrid aus BADUZ, OBREDIMET und design- und webspezifischen Prozessmodellen wie Double Diamond.
+Das für die Umsetzung meiner Webprojekte gewählte Prozessmodell ist ein Hybrid aus BADUZ, OBREDIMET und designspezifischen Prozessmodellen wie [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking). Seit 2024 habe ich auch mehr und mehr [Dragon Dreaming](https://dragondreaming.org/) in die Praxis miteinfliessen lassen.
 
 Folgend ist ein Overview sichtbar und ein umfangreiches Leporello, welches dieses Modell zeigt, kann [hier](https://cloud.nadineprigann.de/index.php/s/HagAT94dbG2YaYJ) eingesehen / heruntergeladen werden.
 

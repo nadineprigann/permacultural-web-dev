@@ -1,10 +1,10 @@
-const { description } = require('../../package')
+const { description } = require("../../package");
 
 module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Permakulturelle Webentwicklung',
+  title: "Permakulturelle Webentwicklung",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -16,9 +16,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" }
+    ]
   ],
 
   /**
@@ -27,29 +30,29 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: "",
     displayAllHeaders: false,
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: "",
+    editLinkText: "",
     lastUpdated: true,
     nav: [
       {
-        text: 'Dokumentation',
-        link: '/documentation/'
+        text: "Dokumentation",
+        link: "/documentation/"
       },
       {
-        text: 'Workflow',
-        link: '/workflow/'
+        text: "Workflow",
+        link: "/workflow/"
       },
       {
-        text: 'GitHub',
-        link: 'https://github.com/nadineprigann/permacultural-web-dev'
+        text: "GitHub",
+        link: "https://github.com/nadineprigann/permacultural-web-dev"
       },
       {
-        text: 'Autorin',
-        link: 'https://nadineprigann.de'
-      },
+        text: "Autorin",
+        link: "https://nadineprigann.de"
+      }
       // {
       //   text: 'Language',
       //   ariaLabel: 'Language Menu',
@@ -60,66 +63,96 @@ module.exports = {
       // }
     ],
     sidebar: {
-      '/documentation/': [
+      "/documentation/": [
         {
           collapsable: false,
           // use file name here without extension and content will be rendered with the first line as title. optional title can be declared. empty string is ref for README
           children: [
-            '',
+            "",
             {
-              title: 'Beobachten',
+              title: "Beobachten",
               collapsable: false,
               // sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/documentation/observe/objectives-limits.md', '/documentation/observe/objectives.md', '/documentation/observe/9-ways.md', '/documentation/observe/user-interview.md', '/documentation/observe/inventory.md'],
+              children: [
+                "/documentation/observe/objectives-limits.md",
+                "/documentation/observe/objectives.md",
+                "/documentation/observe/9-ways.md",
+                "/documentation/observe/user-interview.md",
+                "/documentation/observe/inventory.md"
+              ]
             },
             {
-              title: 'Analysieren',
+              title: "Analysieren",
               collapsable: false,
-              children: ['/documentation/analysis/io-analysis.md', '/documentation/analysis/patterns.md'],
+              children: [
+                "/documentation/analysis/io-analysis.md",
+                "/documentation/analysis/patterns.md"
+              ]
             },
             {
-              title: 'Designen',
+              title: "Designen",
               collapsable: false,
-              children: ['/documentation/design/intro.md', '/documentation/design/inventory.md', '/documentation/design/process-model.md', '/documentation/design/ethics.md', '/documentation/design/principle-sets.md', '/documentation/design/tools-partner.md' ],
+              children: [
+                "/documentation/design/intro.md",
+                "/documentation/design/inventory.md",
+                "/documentation/design/process-model.md",
+                "/documentation/design/ethics.md",
+                "/documentation/design/principle-sets.md",
+                "/documentation/design/tools-partner.md"
+              ]
             },
             {
-              title: 'Umsetzen',
+              title: "Umsetzen",
               collapsable: false,
-              children: ['/documentation/realization/intro.md', '/documentation/realization/consulting.md', '/documentation/realization/design.md', '/documentation/realization/realization.md'],
+              children: [
+                "/documentation/realization/intro.md",
+                "/documentation/realization/vision.md",
+                "/documentation/realization/design.md",
+                "/documentation/realization/realization.md"
+              ]
             },
             {
-              title: 'Zelebrieren',
+              title: "Zelebrieren",
               collapsable: false,
-              children: ['/documentation/celebration/celebration.md'],
+              children: ["/documentation/celebration/celebration.md"]
             },
             {
-              title: 'Tweaking',
+              title: "Tweaking",
               collapsable: false,
-              children: ['/documentation/tweaking/intro.md', '/documentation/tweaking/zone.md', '/documentation/tweaking/funding.md', '/documentation/tweaking/consulting.md'],
-            },
+              children: [
+                "/documentation/tweaking/intro.md",
+                "/documentation/tweaking/zone.md",
+                "/documentation/tweaking/funding.md",
+                "/documentation/tweaking/vision.md"
+              ]
+            }
           ]
         }
       ],
-      '/workflow/': [
+      "/workflow/": [
         {
           collapsable: false,
           children: [
-            '',
+            "",
             {
-              title: 'Ausführliche Teilschritte',
+              title: "Ausführliche Teilschritte",
               collapsable: false,
-              sidebarDepth: 2,    // optional, defaults to 1
-              children: ['/workflow/detailed/consulting.md', '/workflow/detailed/design.md', '/workflow/detailed/backend.md', '/workflow/detailed/frontend.md', '/workflow/detailed/feedback.md'],
-            },
+              sidebarDepth: 2, // optional, defaults to 1
+              children: [
+                "/workflow/detailed/vision.md",
+                "/workflow/detailed/design.md",
+                "/workflow/detailed/backend.md",
+                "/workflow/detailed/frontend.md",
+                "/workflow/detailed/feedback.md"
+              ]
+            }
           ]
         }
-      ],
-    },
+      ]
+    }
   },
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    '@vuepress/register-components',
-  ]
-}
+  plugins: ["@vuepress/register-components"]
+};

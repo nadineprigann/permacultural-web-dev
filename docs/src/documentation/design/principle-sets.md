@@ -18,7 +18,7 @@ Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 P
 
 4. Apply self-regulation + accept feedback
 
-    Zentrale Rolle soll der «Feedback- und Feierschritt» (angelehnt an die 4. Phase des [Dragon Dreaming](../../workflow/detailed/consulting.html#dragon-dreaming-ikigai)) in meinem Prozess sein. Hier geht es nach Abschluss eines Projektes darum, aktiv und intensiv die Ergebnisse und den Erfolg der Zusammenarbeit zu zelebrieren. Sehr wichtig ist hier auch ehrliches Feedback, das nicht nur geäussert, sondern mit einem Vorschlag der Einbindung / Verbesserung verbunden mitgeteilt werden soll. Dabei geht es nicht nur um das Projekt an sich, sondern auch zum Workflow dahinter, der mit diesem Basisjahrprojekt entwickelt werden soll. Interdisziplinäre und offene Fragen wie bspw. «Welcher Aspekt / Methode aus eurer Praxis kann meinen Workflow nachhaltiger machen?» können hier helfen.
+    Zentrale Rolle soll der «Feedback- und Feierschritt» (angelehnt an die 4. Phase des [Dragon Dreaming](../../workflow/detailed/vision.html#dragon-dreaming-ikigai)) in meinem Prozess sein. Hier geht es nach Abschluss eines Projektes darum, aktiv und intensiv die Ergebnisse und den Erfolg der Zusammenarbeit zu zelebrieren. Sehr wichtig ist hier auch ehrliches Feedback, das nicht nur geäussert, sondern mit einem Vorschlag der Einbindung / Verbesserung verbunden mitgeteilt werden soll. Dabei geht es nicht nur um das Projekt an sich, sondern auch zum Workflow dahinter, der mit diesem Basisjahrprojekt entwickelt werden soll. Interdisziplinäre und offene Fragen wie bspw. «Welcher Aspekt / Methode aus eurer Praxis kann meinen Workflow nachhaltiger machen?» können hier helfen.
 
 5. Use + value renewable resources + services
 
@@ -30,7 +30,7 @@ Zu Beginn des Basisjahres evaluierte ich meine Projektidee bereits mit den [12 P
 
 7. Design from patterns to details
 
-    Mit Hilfe des Consultings soll erst eine grobe Struktur geschaffen werden, welche mit Hilfe der Gestaltung dann feingliedriger durchdacht und schliesslich mit der Umsetzung sehr detailliert realisiert wird. Vom der abstrakten und gedanklichen Idee zum konkreten und physischen Produkt sozusagen. Auch innerhalb der einzelnen Prozessschritte findet sich dieses Prinzip wieder: im Umsetzungsschritt des Frontends bspw. wird erst die Struktur der Seite festgelegt und nun Schritt für Schritt mehr Detailgrad wie Layout bis hin zu Farben und Schriftgrössen definiert.
+    Mit Hilfe der Visionsphase soll erst eine grobe Struktur geschaffen werden, welche mit Hilfe der Gestaltung dann feingliedriger durchdacht und schliesslich mit der Umsetzung sehr detailliert realisiert wird. Vom der abstrakten und gedanklichen Idee zum konkreten und physischen Produkt sozusagen. Auch innerhalb der einzelnen Prozessschritte findet sich dieses Prinzip wieder: im Umsetzungsschritt des Frontends bspw. wird erst die Struktur der Seite festgelegt und nun Schritt für Schritt mehr Detailgrad wie Layout bis hin zu Farben und Schriftgrössen definiert.
 
 8. Integrate rather than segregate
 
