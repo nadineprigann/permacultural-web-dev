@@ -48,6 +48,7 @@ Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen
 - [Infomaniak](https://www.infomaniak.com/de/hosting/web-und-mail/web-und-e-mail-hosting)
 - [Biohost](https://www.biohost.de/)
 - [GreenSta](https://ssl.greensta.de/)
+- [Hetzner](https://www.hetzner.com/de/)
 
 ### Kommunikation + Projektmanagement
 
@@ -56,12 +57,13 @@ Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen
 - [Senfcall](https://www.senfcall.de/) – Videoanrufe
 - [Trello](https://trello.com/) – Projektmanagement, (mit Login)
 - [LibreOffice](https://www.libreoffice.org/) – Textverarbeitung
+- [Pages](https://www.apple.com/ca/pages/) – Textverarbeitung, ist vorhanden
 - [Keynote](https://www.apple.com/keynote/) – Präsentation, ist vorhanden
 - [1password](https://1password.com/) – Passwortmanager, (nicht kostenfrei, mit Login) -> [bitwarden](https://bitwarden.com/), [KeePassXC](https://keepassxc.org/)?
 - [Proton Suite](https://proton.me/) – VPN, Kalender, Mail, Drive, Passwortmanager, Account vorhanden
 - [lexoffice](https://www.lexoffice.de/) – Rechnungstool
 - [ELSTER](https://www.elster.de/eportal/start) – Steuererklärungen, Umsatz- und Gewerbesteuer, etc.
-- [Tyme](https://www.tyme-app.com/en/) – Time Tracking
+- [Toggl Track](https://toggl.com/) – Time Tracking
 - [Nextcloud](https://nextcloud.com/) – File Sharing
 
 ##  Partner
