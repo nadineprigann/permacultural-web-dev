@@ -1,8 +1,6 @@
 # Vision
 
-Die erste Säule Vision hat zum Ziel, eine genaue Vorstellung und Zieldefinition von der Art und dem Umfang des digitalen Produktes zu erlangen, welches meine Auftraggebenden umsetzen möchten.
-
-Hierbei ist es meiner Ansicht nach besonders wichtig, die Bedürfnisse und Anliegen, aber auch die Ressourcen und Limits der Kunden herauszuarbeiten, denn nur, wenn diese realistisch eingeschätzt und das Produkt dementsprechend entwickelt wird, kann dieses nachhaltig eingesetzt werden.
+Im Folgenden greife ich die wichtigsten Meilensteine heraus und erläutere exemplarisch, welchen Nutzen sie für dich haben.
 
 ##  Initial Interview
 
@@ -11,6 +9,10 @@ Anfangs steht immer ein Erstgespräch, in dem die Vorstellungen von Umfang, Desi
 <c-text-block text="Dieser Fragebogen soll als digitales Formular in dieser Dokumentation auf meiner Webseite frei zugänglich gemacht werden. Hierdurch kann ich den Auftraggebenden einen Link senden, den sie ausfüllen und wir uns beide vor dem Erstgespräch auf dieses vorbereiten können. Der PDF-Versand via Mail entfällt und / oder Zoomgespräche werden dadurch deutlich effizienter." label="feature" class="label-feature" />
 
 Im weiteren Verlauf kann und wird häufig noch zielgerichtetere Klärung vonnöten sein. Hierfür habe ich einige permakulturelle Methoden herausgegriffen, die mich bei diesem Findungs- und Definitionsprozess zusammen mit den Auftraggebenden untersützen können. Diese können je nach Bedarf als eine Art Workshop oder Mini-Input eingebracht werden. Sie werden im Folgenden der logischen Abfolge nach genannt und kurz vorgestellt.
+
+##  Traumkreis
+
+##  Traumskizzen
 
 ##  Dragon Dreaming / IKIGAI
 
@@ -25,7 +27,7 @@ Dragon Dreaming wurde von John Croft entwickelt und ist extrem beeinflusst durch
 
 Zusammen mit [IKIGAI](https://www.bbc.com/worklife/article/20170807-ikigai-a-japanese-concept-to-improve-work-and-life) kann hieraus eine starke Vision für das Projekt kreiert werden.
 
-##  SMART-Ziele
+##  Vision
 
 Wenn Vision und Weg klar sind, kann mit Hilfe der SMART-Ziele ein übergeordnetes Projektziel destilliert werden. Dieses fungiert als eine Art Nordstern während der Projektdauer und führt Handlungen immer wieder zur Zielgerichtetheit zurück.
 
@@ -54,3 +56,5 @@ Die gewonnenen Informationen werden benutzt, um eine Erfassung der aktuellen Sit
 ##  Definition und Abnahme
 
 Besprechung des Bestandsplan mit Auftraggebenden, um eine Strategie zu entwickeln, was und wie ein digitales Produkt entwickelt werden kann, welches ihren und den Bedürfnissen ihrer Nutzenden gerecht wird. Hier können bei Bedarf weitere und / oder oben genannte Methoden und Techniken zum Einsatz kommen. Hier werden nun, als Abschluss der Visionsphase, die erarbeiteten Strategien und Definitionen abgenommen.
+
+Möchtest du noch mehr Informationen sowie die Entstehungsgeschichte lesen, schau dir gerne die [Dokumentation](../../documentation) des Projektes an.
