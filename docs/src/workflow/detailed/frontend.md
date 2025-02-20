@@ -24,9 +24,9 @@ Diese Struktur wird nun mit den Codekomponenten erstellt. Hierfür werden diese 
 
 Bereits bestehender Code aus vorherigen Projekten kann und soll wiederverwendet werden. Ziel dieses Schrittes ist es, alle Daten, die im Backend abgefüllt werden können, im Frontend sichtbar zu machen und somit ihre Funktionalität zu etablieren. Die Designvorgaben und hierdurch das Layout sollten hier bereits berücksichtigt werden, da dies oft bereits in der HTML-Struktur mitgedacht werden muss.
 
-##  Layout
+<!-- ##  Layout
 
-Nun folgt die Erstellung eines groben Layouts mithilfe von [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS). In diesem Schritt werden responsive Layoutkonzepte erstellt und ggf. die HTML-Struktur der Komponenten bei Bedarf verfeinert.
+Nun folgt die Erstellung eines groben Layouts mithilfe von [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS). In diesem Schritt werden responsive Layoutkonzepte erstellt und ggf. die HTML-Struktur der Komponenten bei Bedarf verfeinert. -->
 
 ##  Navigation
 
@@ -36,19 +36,19 @@ Zusammen mit dem Layout gehört die Navigation zu den wichtigsten Elementen des 
 
 In diesem Schritt werden die Funktionen der Seite umgesetzt. Hierzu zählen zum Beispiel sich öffnende und schliessende Overlays und Sektionen ([Akkordeons](https://www.w3.org/WAI/ARIA/apg/example-index/accordion/accordion.html)), Filter- und Sortierungsfunktionen, Formulare, etc. Diese werden rein funktionell nach Vorgaben u.a. der [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) und des [WAI-ARIA-Guides](https://www.w3.org/TR/wai-aria-1.2/) umgesetzt, um bestmögliche [accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) zu ermöglichen. Hilfe zu dieser Umsetzung findet sich im [Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/) der [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/).
 
-##  Typografie
+<!-- ##  Typografie
 
-Die Schriftdatei oder der Link zur Schrift wird eingebunden und die im Design definierten Schriftgrössen und Gestaltungsparameter festgelegt. Ausgangspunkt hierfür ist die Lauftextschrift auf mobile devices, auf Grundlage derer alle folgenden Schriftgrössen deklariert werden (em-basiert). Auch Schriftschnitt und -gewicht wird explizit als Variable definiert, um diese so flexibel wie möglich einzusetzen.
+Die Schriftdatei oder der Link zur Schrift wird eingebunden und die im Design definierten Schriftgrössen und Gestaltungsparameter festgelegt. Ausgangspunkt hierfür ist die Lauftextschrift auf mobile devices, auf Grundlage derer alle folgenden Schriftgrössen deklariert werden (em-basiert). Auch Schriftschnitt und -gewicht wird explizit als Variable definiert, um diese so flexibel wie möglich einzusetzen. -->
 
-##  Horizontale Abstände
+<!-- ##  Horizontale Abstände
 
 Nachdem die Schriftgrössen definiert sind, folgen die horizontalen Abstände. Zu beachten ist hier, dass diese Definition nicht auf dem Element, welches eine Schriftgrössendefinition zugewiesen bekommen hat, stattfindet, sondern auf einem Wrapper-Element, um konsistente Abstände über verschiedene Schriftgrössen hinweg zu realisieren.
 
 ##  Vertikale Abstände
 
-Im Anschluss folgen die vertikalen Abstände, die nach dem gleichen Prinzip realisiert werden. Hierzu zählen auch `max-width`'s, Tabellenweiten und deren maximale Breiten.
+Im Anschluss folgen die vertikalen Abstände, die nach dem gleichen Prinzip realisiert werden. Hierzu zählen auch `max-width`'s, Tabellenweiten und deren maximale Breiten. -->
 
-##  Icons
+<!-- ##  Icons
 
 Generell sollten textliche Linkinhalte verwendet werden um eine möglichst gute [accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) zu garantieren, denn screen readers lesen in diesem Fall den Text vor, der bei wohlüberlegter Formulierung aussagekräftiger ist als ein Icon. Sollten dennoch Icons verwendet werden, sollten [Unicode-Zeichen](https://unicode-table.com/en/) oder bei einer neu erstellten Schrift die Zeichen in die Schrift als Glyphen eingebunden werden. So kann sichergestellt werden, dass keine weitere externe Ressource geladen werden muss.
 
@@ -57,11 +57,11 @@ Wenn das nicht möglich ist, dann sollten [SVG's](https://developer.mozilla.org/
 Sollten verschiedene Farbvarianten des selben Icons notwendig sein, kann dies ebenfalls mit [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS) und diesem [CSS Filter Generator](https://codepen.io/sosuke/pen/Pjoqqp)
 realisiert werden.
 
-Wichtig ist ausserdem grundsätzlich, die SVG's zu komprimieren und zu optimieren. Hierbei werden, beispielsweise mit [SVG OMG](https://jakearchibald.github.io/svgomg/), unnötige Metadaten entfernt und so signifikant Dateigrösse eingespart.
+Wichtig ist ausserdem grundsätzlich, die SVG's zu komprimieren und zu optimieren. Hierbei werden, beispielsweise mit [SVG OMG](https://jakearchibald.github.io/svgomg/), unnötige Metadaten entfernt und so signifikant Dateigrösse eingespart. -->
 
-##  Links, focus, Farben
+<!-- ##  Links, focus, Farben
 
-Abschliessend werden die Farben gemäss Design eingebettet und Links, Buttons etc. sowie deren verschiedene Stati definiert. Es muss zwingend auf eine gute [accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) geachtet werden. Leitfäden sind zum Beispiel die [:focus-Sektion von MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus) und der [WCAG Contrast Checker](https://contrastchecker.com/).
+Abschliessend werden die Farben gemäss Design eingebettet und Links, Buttons etc. sowie deren verschiedene Stati definiert. Es muss zwingend auf eine gute [accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) geachtet werden. Leitfäden sind zum Beispiel die [:focus-Sektion von MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus) und der [WCAG Contrast Checker](https://contrastchecker.com/). -->
 
 ## Zwischenevaluation
 
@@ -73,11 +73,11 @@ Um eine Live-Beurteilung zu ermöglichen, wird das Projekt auf einer Subdomain, 
 
 Die Ergebnisse der Evaluation des Zwischenstandes werden in diesem Schritt umgesetzt. Auch Optimierungen der eingebundenen Medien, bspw. das [`sizes`-Atrribut](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes), zählen hierzu sowie, falls nötig, eine grundlegende [SEO-Optimierung](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb).
 
-## Finale Abnahme
+<!-- ## Finale Abnahme
 
 Wenn alle Schritte von allen Beteiligten abgenommen sind, kann die Seite final auf ihre Zieldomain geschalten werden.
 
-Das Verzeichnis auf [GitHub](https://github.com/), auf dem der Code gespeichert wird, sollte nun, basierend auf den ethischen Grundlagen dieses Workflows, öffentlich zugänglich gemacht und so als [OpenSource-Projekt](https://opensource.com/resources/what-open-source) klassifiziert werden. Es muss daher nun mit einer Lizenz ausgestattet werden. Dies ist wichtig, damit andere Entwickelnde im Rahmen der OpenSource-Ethik rechtlich einwandfreie Projekte verwenden und einbinden können. Wenn das nicht geschieht, hat das rechtliche Konsequenzen, denen man sich bewusst sein sollte. Passende Lizenzformate können [GNP GPLv3](https://choosealicense.com/licenses/gpl-3.0/) und die [MIT](https://choosealicense.com/licenses/mit/)-Lizenz sein. Weitere Infos und Lizenzen können unter [www.choosealicense.com](https://choosealicense.com/) eingesehen werden.
+Das Verzeichnis auf [GitHub](https://github.com/), auf dem der Code gespeichert wird, sollte nun, basierend auf den ethischen Grundlagen dieses Workflows, öffentlich zugänglich gemacht und so als [OpenSource-Projekt](https://opensource.com/resources/what-open-source) klassifiziert werden. Es muss daher nun mit einer Lizenz ausgestattet werden. Dies ist wichtig, damit andere Entwickelnde im Rahmen der OpenSource-Ethik rechtlich einwandfreie Projekte verwenden und einbinden können. Wenn das nicht geschieht, hat das rechtliche Konsequenzen, denen man sich bewusst sein sollte. Passende Lizenzformate können [GNP GPLv3](https://choosealicense.com/licenses/gpl-3.0/) und die [MIT](https://choosealicense.com/licenses/mit/)-Lizenz sein. Weitere Infos und Lizenzen können unter [www.choosealicense.com](https://choosealicense.com/) eingesehen werden. -->
 
 ## Bugfixing
 
