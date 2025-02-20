@@ -1,8 +1,10 @@
 # Einführung in die Projektarbeit mit diesem Workflow
 
-Der nachhaltigere [Workflow](https://trello.com/w/userworkspaceaa1c57b2e62ef5488e9680dea9d99fce), ein Ergebnis von Beobachtung und Analyse der typischen Workflows meiner ehemaligen Angestelltentätigkeit, und die (teilweise) neu konzipierten Prozessphasen werden in den folgenden Kapiteln eingehend vorgestellt. Er ist offen zugänglich für alle. Lies dir gerne den folgenden Text durch, um ein umfassendes Bild davon zu bekommen, was dich auf dieser Reise zu deiner neuen Website inhaltlich erwartet. Wenn du mehr Information möchtest, kannst du mit den ausführlichen Teilschritten tiefer in die einzelnen Methoden der Phasen eintauchen.
+Der nachhaltigere Workflow, ein Ergebnis von Beobachtung und Analyse der typischen Workflows meiner ehemaligen Angestelltentätigkeit, und die (teilweise) neu konzipierten Prozessphasen werden in den folgenden Kapiteln vorgestellt. Lies dir gerne den folgenden Text durch, um ein umfassendes Bild davon zu bekommen, was dich auf dieser Reise zu deiner neuen Website inhaltlich erwartet.
 
-## Vision
+Wenn du mehr Information möchtest, kannst du hier den [kompletten Workflow](https://trello.com/w/userworkspaceaa1c57b2e62ef5488e9680dea9d99fce) einsehen und tiefer in die einzelnen Methoden der Phasen eintauchen.
+
+## [Vision](https://trello.com/b/DQbLT8JS/vision)
 
 ### Komponenten
 
@@ -24,7 +26,7 @@ Den Abschluss der Phase bildet eine Konsolidierung all dieser gesammelten Inform
 
 Für die Visionsphase kannst du etwa 1 bis 6 Termine im Monat einplanen. Dadurch kann diese Phase durchaus von ca. 2–3 Monaten bis hin zu einem halben Jahr dauern. Erfahrungsgemäss ist das sehr hilfreich, denn dadurch reifen Wünsche, Bedürfnisse und Konzepte eher und wir umgehen die Umsetzung einer fixen Momentidee, die sich vielleicht im Nachgang als nicht optimal herausstellt. Ein einzelner Termin dauert pro Session ca. 2 Stunden und kann per Telefon, [online](https://www.senfcall.de/) oder live stattfinden.
 
-## Gestaltung
+## [Gestaltung](https://trello.com/b/eBY2NCgr)
 
 In diesem Teil des Projektes wenden wir uns der Gestaltung der Website zu. Er besteht aus Methoden aus dem Design Thinking und dem Dragon Dreaming und wirkt als kokreative und iterative Phase, d.h. mit eng gesteckten wiederholenden Feedbackschleifen. Diese ermöglichen uns schnelle Anpassungen oder Entwicklung von Lösungsansätzen. Hierzu nutzen wir verschiedene Formen von Prototypen, um effizient eine Frage oder ein Problem entweder mit dir oder mit weiteren externen Personen zu bearbeiten, Feedback einzuholen oder Ideen zu generieren.
 
@@ -38,13 +40,13 @@ Diese Phase schliesst mit einem Design-Dokument ab, welches dir offen zur Verfü
 
 ##  Umsetzung
 
-### Back End
+### [Backend](https://trello.com/b/ygakLN72)
 
 In der Umsetzungsphase leite ich aus dem Designdokument eine Datenstruktur für das Back End ab, die sicherstellt, dass es von dir intuitiv und einfach abgefüllt werden kann. Im weiteren Verlauf teste ich diesen Entwurf immer wieder mit dir und nehme ggf. Anpassungen vor, um ein stimmiges Back End aufzusetzen. Hier arbeiten wir wieder, wie auch in den anderen Phasen, in iterativen Feedbackschleifen, denn ich möchte ein Projekt umsetzen, dass dir bestmöglich hilft, deine Arbeit zu machen. Deshalb muss es zu dir und deinen Fähigkeiten und Bedürfnissen passen. Haben wir das Back End fertiggestellt, kannst du damit beginnen, es mit den finalen Daten zu befüllen.
 
 <!-- werden wir uns als erstes auf einen nachhaltigen Hoster festlegen. Hier unterstütze ich dich bei der Auswahl und der Bestellung oder des Umzugs deiner Domain, der Einrichtung eines Mailaccounts für deine Domain etc. Im nächsten Schritt nehme ich auf Grundlage des Designdokumentes eine https://trello.com/c/iQ7PBJFa/8-strukturelle-analyse  vor, d. h. ich leite ab, welche Datenfelder das Back End braucht, damit es von dir intuitiv und einfach abgefüllt werden kann. Dies passiert in enger Anlehnung an das Design, damit bestmöglich abstrakte Datenbankmasken verhindert werden können und dir klar ist, woran du grade arbeitest.  -->
 
-### Front End
+### [Frontend](https://trello.com/b/IPhgggyv)
 
 Ich widme mich dann dem Front End der Seite. Hier geht es darum, die Daten des Back Ends so wie in unserem Design vorgegeben aufzubereiten und zu präsentieren.
 
@@ -61,6 +63,10 @@ Nach ausführlichem Testen und Bugfixing launchen wir die Seite final. Ich bin a
 ### Deine Ernte
 
 Nach dieser Phase steht dir das [GitHub](https://github.com/) repository, der Ort, an dem der Code zur Seite u. a. gespeichert ist, deines Projektes zur freien Verfügung. Es ist open source-lizenziert, was bedeutet, dass jede:r den Code weiterverwenden und verändern darf. Dies ist zentraler Bestandteil eines nachhaltigen und gerecht teilenden Internets (ähnlich der Permakulturethik “fair share”), denn auch ich profitiere beim Erstellen von den Erfahrungen anderer. Weiter gehört dir natürlich deine Domain und die Rechte daran. Am Ende unserer gemeinsamen Reise angekommen, hast du ausserdem einen Einblick in die Entwicklungsprozesse bekommen sowie ein Grundverständnis der Abläufe und des Codes erlangt, was dich weniger hilflos vor diesem grossen digitalen Projekt fühlen lassen kann.
+
+##  [Evaluation](https://trello.com/b/Ya21BO5A)
+
+In dieser letzten Phase nutzen wir einige Methoden, um das komplette Projekt zusammen zu evaluieren. Die Ergebnisse der einzelnen Retrospektiven werdne hier mit aufgenommen. Mir ist hier offenes Feedback besonders wichtig, damit ich diesen Workflow zusammen mit dir immer weiter verbessern kann. Zu dieser Phase gehört auch ein ausführliches Feiern unserer Zusammenarbeirt und dem,w as wir zusammen geschafft haben: eine individuelle und nachhaltige Webseite für dich erstellt!
 
 ## Zeitliche Gesamtplanung des Projektes
 
