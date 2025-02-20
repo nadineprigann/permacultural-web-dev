@@ -133,19 +133,19 @@ module.exports = {
         {
           collapsable: false,
           children: [
-            "",
-            {
-              title: "Ausführliche Teilschritte",
-              collapsable: false,
-              sidebarDepth: 2, // optional, defaults to 1
-              children: [
-                "/workflow/detailed/vision.md",
-                "/workflow/detailed/design.md",
-                "/workflow/detailed/backend.md",
-                "/workflow/detailed/frontend.md",
-                "/workflow/detailed/feedback.md"
-              ]
-            }
+            ""
+            // {
+            // title: "Ausführliche Teilschritte",
+            // collapsable: false,
+            // sidebarDepth: 2, // optional, defaults to 1
+            // children: [
+            //   "/workflow/detailed/vision.md",
+            //   "/workflow/detailed/design.md",
+            //   "/workflow/detailed/backend.md",
+            //   "/workflow/detailed/frontend.md",
+            //   "/workflow/detailed/feedback.md"
+            // ]
+            // }
           ]
         }
       ]

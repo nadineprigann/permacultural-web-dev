@@ -1,6 +1,6 @@
 # Design
 
-## Initial Interview
+<!-- ## Initial Interview
 
 Besprechung der erarbeiteten Ergebnisse aus der Visionsphase und ihrer Bedeutung für die gestalterische Umsetzung. Falls vorher kein Visionsphase stattgefunden hat, muss in Erwägung gezogen werden, trotz evtl. vorhandenem Design, zumindest einen kurzen beraterisch motivierten Visions-Call anzusetzen, der Ziele und Intention klarer macht. Folgend eine Liste, die die wichtigen Punkte für diesen Abschnitt zusammenfasst:
 
@@ -11,11 +11,11 @@ Besprechung der erarbeiteten Ergebnisse aus der Visionsphase und ihrer Bedeutung
 - Umfang: was soll erstellt und umgesetzt werden?
 - Launching: wann soll das Projekt fertig sein und online gehen? -> wichtige Information für Budget- und Projektplanung
 - Welche gestalterischen Ideen, Skizzen oder Stimmungen haben die Auftraggebenden bereits?
-- gibt es bereits Content, mit dem gestaltet werden kann?
+- gibt es bereits Content, mit dem gestaltet werden kann? -->
 
 ##  Konzeptbrainstorming
 
-Sehr freie Phase, in der, auf Grundlage der im Initial Interview definierten Parameter, verschiedene Konzeptideen erstellt werden. Dies sollte in schnellen Skizzen oder Stichpunkten erfolgen und einen Umfang von ca. 5 bis 6 verschiedenen Designs haben, die in kurzer Zeit erstellt werden.
+Sehr freie Phase, in der, auf Grundlage der im Initial Interview definierten Parameter, verschiedene Konzeptideen erstellt werden. Dies sollte in schnellen Skizzen oder Stichpunkten erfolgen und einen Umfang von ca. 5 bis 6 verschiedenen Designs haben, die in kurzer Zeit erstellt werden. Eine Erweiterung der Traumsikkten, mit Double Diamond
 
 ##  Evaluation des Konzepts
 
@@ -39,14 +39,16 @@ Anschliessend werden Menschen die oben genannten User Tasks gestellt und diese m
 
 Am Ende dieses Schrittes sollte eine klare Strategie zum User Flow herausgearbeitet werden.
 
-##  Erste Entwürfe
+## Responsive Design
+
+## Erste Entwürfe
 
 Hier werden nun erste Entwürfe des ausgewählten strukturellen Flows erstellt. Besonderes Hauptaugenmerk liegt hier auf dem Prinzip vom Grossen ins Detail, denn wichtig ist in desem Schritt, erst einmal die übergeordnete visuelle Sprache zu finden. Leitfragen, die zum Start helfen können, sind:
 
 - wie sind Elemente genau angeordnet?  
 - welche visuelle Hierarchie unterstützt den Informationstransfer meiner Zielgruppe am ehesten?
 - wie ist die generelle Grundstimmung der Seite? Wie sollen sich Nutzende beim Bedienen fühlen? Welches Gefühl unterstützt den Informationstransfer und wie kann das mittels gestalterischer Methoden erzielt werden?
-- welche Farben und Schriften könnten verwendet werden (-> Nachhaltigkeitsprinzipien und [Acessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) im Hinterkopf behalten)
+- welche Farben und Schriften könnten verwendet werden (-> Nachhaltigkeitsprinzipien und [Acessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) im Hinterkopf behalten)å
 
 ## Evaluation des Konzepts
 
