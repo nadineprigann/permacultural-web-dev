@@ -49,5 +49,5 @@ jobs:
           # protocol: ${{ env.protocol }}
           # server-dir: ${{ env.remote-root }}
           username: ${{ env.username }}
-          local-dir: docs/src/.vuepress/dist/
+          local-dir: docs/.vuepress/dist/
           password: ${{ secrets.FRONTEND_PASSWORD }}
