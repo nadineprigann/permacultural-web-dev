@@ -1,9 +1,9 @@
 <template>
   <!-- TODO: make dynamic class names work. it is not possible with pure CSS but preprocessors can be installed. 
     did not work properly as of 02/23. workaround is using these defined scoped styles as class names within parent -->
-  <section class="component">
-    <div v-html="label" class="type"/>
-    <div v-html="text" class="text"/>
+  <section class="block">
+    <div v-html="label" class="type" />
+    <div v-html="text" class="text" />
     <!-- <c-base-bodytext :class="$style.body" v-html="item" /> -->
   </section>
 </template>
@@ -20,7 +20,7 @@ export default {
       default: ""
     },
     label: {
-      type: String,
+      type: String
       // default: 'info' // info, feature, resource, succession
     }
   },
@@ -32,13 +32,12 @@ export default {
     //     ]
     //   };
     // }
-  },
-
+  }
 };
 </script>
 
 <style scoped lang="css">
-.component {
+.block {
   /* --bg: rgb(113, 168, 255); */
   background-color: rgb(45, 45, 45);
   border-left: solid 0.5rem var(--highlight-color);
@@ -63,7 +62,7 @@ export default {
 
 .type,
 .text {
-  font-family: 'IBM Plex Mono';
+  font-family: "IBM Plex Mono";
   font-size: 0.85em;
 }
 
