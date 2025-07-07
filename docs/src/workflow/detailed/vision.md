@@ -69,7 +69,7 @@ Die Nutzung dieser [9 Wege von Starhawk](https://cloud.nadineprigann.de/index.ph
 
 Mit einer Gruppe von Menschen, evtl. das beauftragende Team, können aufkommende Fragen intuitiv beantwortet werden, beispielsweise als Follow-Up der 9 Wege der Beobachtung. Dies funktioniert so: man teilt eine Gruppe in Fragende und Antwortende und stellt sich im Kreis auf. Die Fragenden denken sich jede:r eine Frage zum Projekt aus, die sie jedem Antwortenden stellen. So werden viele Fragen mit vielen Antwortmöglichkeiten generiert, die nachher in der Gruppe reflektiert werden können. -->
 
-## Bestandsplan
+## Visionsmanifest
 
 Die gewonnenen Informationen werden benutzt, um eine Erfassung der aktuellen Situation so konkret wie möglich zu beschreiben. Hierzu können Moodboards, textliche Beschreibungen, Skizzen usw. benutzt werden.
 
