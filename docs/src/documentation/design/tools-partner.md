@@ -16,7 +16,7 @@ Auf Grundlage der Ethik und der Prinzipien der Permakultur sowie naheliegende Ko
 
 ##  Tools
 
-- es sollen ausschliesslich OpenSource-Projekte zum Einsatz kommen
+- es sollen, wenn möglich, OpenSource-Projekte zum Einsatz kommen
 - sie sollten möglichst ohne Login und / oder finanziellem Ausgleich zu benutzen sein. Handelt es sich um OpenSource-lizenzierte Projekte, kann durch die Lizenzgebühr die entwickelnde Person untersützt werden, dieses Projekt weiter zu pflegen und OpenSource zur Verfügung zu stellen. Auch eine Spende kann und soll in Erwägung gezogen werden.
 - proprietäre Software wie [Adobe](https://www.adobe.com/de/)-Produkte sind zwingend zu vermeiden
 - wenn möglich, sollten datenschutzkonforme Tools benutzt werden, die weder Analysen durchführen, noch Daten ohne Zustimmung weiterverarbeiten -> Google Services sind demnach tabu. Auch Meta-Integrationen (Facebook, Instagram) sind abzulehnen
@@ -52,9 +52,9 @@ Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen
 
 ### Kommunikation + Projektmanagement
 
-- [Slack](https://slack.com/) – Kommunikationstool
 - [FastMail](https://www.fastmail.com/) – E-Mail-Programm, (nicht kostenfrei, aber privacy-friendly und mit vielen Funktionen)
 - [Senfcall](https://www.senfcall.de/) – Videoanrufe
+- [Jitsi Meet](https://meet.jit.si/?rCounter=1)
 - [Trello](https://trello.com/) – Projektmanagement, (mit Login)
 - [LibreOffice](https://www.libreoffice.org/) – Textverarbeitung
 - [Pages](https://www.apple.com/ca/pages/) – Textverarbeitung, ist vorhanden
@@ -66,6 +66,13 @@ Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen
 - [Toggl Track](https://toggl.com/) – Time Tracking
 - [Nextcloud](https://nextcloud.com/) – File Sharing
 
+###  Social Media
+
+- [Bluesky](https://bsky.social/about) – dezentrales Social Media
+- [Mastodon](https://joinmastodon.org/) – dezentrales Social Media entwickelt in Deutschland
+
 ##  Partner
 
 - [Süpèr](https://super.asdf.af)
+
+<!-- Grafiken und Inhalte Dritter adäquat und accessible kennzeichnen in terms of Copyright: <https://svgkingdom.com/what-should-i-know-about-copyright-and-attribution-when-using-svg-files/> -->
