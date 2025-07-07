@@ -24,7 +24,7 @@ Den Abschluss der Phase bildet eine Konsolidierung all dieser gesammelten Inform
 
 ### Zeitliche Planung dieser Phase
 
-Für die Visionsphase kannst du etwa 1 bis 6 Termine im Monat einplanen. Dadurch kann diese Phase durchaus von ca. 2–3 Monaten bis hin zu einem halben Jahr dauern. Erfahrungsgemäss ist das sehr hilfreich, denn dadurch reifen Wünsche, Bedürfnisse und Konzepte eher und wir umgehen die Umsetzung einer fixen Momentidee, die sich vielleicht im Nachgang als nicht optimal herausstellt. Ein einzelner Termin dauert pro Session ca. 2 Stunden und kann per Telefon, online via [Senfcall](https://www.senfcall.de/) oder Jitsi Meet [https://meet.jit.si/?rCounter=1] oder live stattfinden.
+Für die Visionsphase kannst du etwa 1 bis 6 Termine im Monat einplanen. Dadurch kann diese Phase durchaus von ca. 2–3 Monaten bis hin zu einem halben Jahr dauern. Erfahrungsgemäss ist das sehr hilfreich, denn dadurch reifen Wünsche, Bedürfnisse und Konzepte eher und wir umgehen die Umsetzung einer fixen Momentidee, die sich vielleicht im Nachgang als nicht optimal herausstellt. Ein einzelner Termin dauert pro Session ca. 2 Stunden und kann per Telefon, online via [Senfcall](https://www.senfcall.de/) oder [Jitsi Meet](https://meet.jit.si/?rCounter=1) oder live stattfinden.
 
 ## [Gestaltung](https://trello.com/b/eBY2NCgr)
 
@@ -66,7 +66,7 @@ Nach dieser Phase steht dir das [GitHub](https://github.com/) repository, der Or
 
 ##  [Evaluation](https://trello.com/b/Ya21BO5A)
 
-In dieser letzten Phase nutzen wir einige Methoden, um das komplette Projekt zusammen zu evaluieren. Die Ergebnisse der einzelnen Retrospektiven werdne hier mit aufgenommen. Mir ist hier offenes Feedback besonders wichtig, damit ich diesen Workflow zusammen mit dir immer weiter verbessern kann. Zu dieser Phase gehört auch ein ausführliches Feiern unserer Zusammenarbeirt und dem,w as wir zusammen geschafft haben: eine individuelle und nachhaltige Webseite für dich erstellt!
+In dieser letzten Phase nutzen wir einige Methoden, um das komplette Projekt zusammen zu evaluieren. Die Ergebnisse der einzelnen Retrospektiven werdne hier mit aufgenommen. Mir ist hier offenes Feedback besonders wichtig, damit ich diesen Workflow zusammen mit dir immer weiter verbessern kann. Zu dieser Phase gehört auch ein ausführliches Feiern unserer Zusammenarbeirt und dem, was wir zusammen geschafft haben: eine individuelle und nachhaltige Webseite für dich erstellt!
 
 ## Zeitliche Gesamtplanung des Projektes
 
