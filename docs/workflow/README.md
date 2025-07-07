@@ -76,7 +76,9 @@ Zeitlich kannst du für den gesamten Prozess ca. 4 Monate bis zu einem Jahr einp
 
 Generell werden die Phasen auf Stundenbasis mit monatlicher Rechnung abgerechnet. Wir können auch, vor allem wenn die Phase kürzer ist, eine Abschlagszahlung nach Beendigung der Phase vereinbaren. Die folgende Grafik zeigt das [Kostendiagramm](https://miro.com/app/board/uXjVL_R46IQ=/?share_link_id=562033574911), welches dir verstehen helfen soll, wie sich die Preisstruktur gestaltet. Es soll dich ausserdem dazu ermächtigen, dein Projekt auf diesen Skalen in etwa einzuordnen, um dir einen ersten Überblick über die Investition zu verschaffen. Vorab schon einmal: mir ist bewusst, dass das für dich eine grosse Investition sein kann. Da ich möglichst vielen Menschen / Initiativen den Zugang zu einer professionellen, nachhaltig und gut geplanten und umgesetzten Website ermöglichen möchte, bin ich offen für einige Zahlungsabsprachen: Tausch, Ratenzahlung, Abschlagszahlung, mtl. Zahlungseinheiten, etc. sind möglich. Lass uns gerne darüber sprechen.
 
-<a href="https://miro.com/app/board/uXjVL_R46IQ=/" target="_blank">![An image](./kostendiagramm.png)</a>
+<a href="https://miro.com/app/board/uXjVL_R46IQ=/" target="_blank">
+<c-image :src="require('./kostendiagramm.png')" :alt="'Kostendiagramm'" />
+</a>
 
 Möchtest du noch mehr Informationen sowie die Entstehungsgeschichte lesen, schau dir gerne die [Dokumentation des Projektes](../documentation) an.
 
