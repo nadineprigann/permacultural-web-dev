@@ -9,11 +9,11 @@
   },
   "repository": "https://github.com/nadineprigann/permacultural-web-dev.git/permacultural-web-dev",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.10"
   }
 }
