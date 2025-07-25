@@ -55,6 +55,7 @@ Durch gründliche Recherche konnte eine (erste) Liste von benötigten Programmen
 - [FastMail](https://www.fastmail.com/) – E-Mail-Programm, (nicht kostenfrei, aber privacy-friendly und mit vielen Funktionen)
 - [Senfcall](https://www.senfcall.de/) – Videoanrufe
 - [Jitsi Meet](https://meet.jit.si/?rCounter=1)
+- [Fairmeeting](https://fairmeeting.net/)
 - [Trello](https://trello.com/) – Projektmanagement, (mit Login)
 - [LibreOffice](https://www.libreoffice.org/) – Textverarbeitung
 - [Pages](https://www.apple.com/ca/pages/) – Textverarbeitung, ist vorhanden

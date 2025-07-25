@@ -1,8 +1,10 @@
-# Design
+# Gestaltung
 
-Hier wird die Realisierung des Designs des Webprojektes behandelt. Es werden im weiteren Verlauf stichpropbenartig Zwischenergebnisse der wichtigsten Prozesschritte gezeigt. Der detaillierte Workflow ist unter [Design in der Sektion Workflow](../../workflow/detailed/design.md) einsehbar.
+Hier wird in Kürze eine Dokumentation der Gestaltungsphase erscheinen. Hab Geduld, ich bin dran. Bis dahin kannst du dir die [Einführung durchlesen](../../workflow/README.md#gestaltung) oder den [detaillierten Workflow der Gestaltung auf Trello](https://trello.com/b/eBY2NCgr) ansehen.
 
-Nesrin hatte bereits erste Skizzen zur Gestaltung der Introseite der Seite. Auf Grundlage der Informationen, die bereitgestellt werden sollten, wurde die Struktur dieser definiert. Hierbei waren auch Gesichtspunkte wie Reduktion der Seitenaufrufe, Reduktion der Verwendung von grossformatigen Medien und passende Schriften entscheidend.
+<!-- die Realisierung des Designs des Webprojektes behandelt. Es werden im weiteren Verlauf stichpropbenartig Zwischenergebnisse der wichtigsten Prozesschritte gezeigt. -->
+
+<!-- Nesrin hatte bereits erste Skizzen zur Gestaltung der Introseite der Seite. Auf Grundlage der Informationen, die bereitgestellt werden sollten, wurde die Struktur dieser definiert. Hierbei waren auch Gesichtspunkte wie Reduktion der Seitenaufrufe, Reduktion der Verwendung von grossformatigen Medien und passende Schriften entscheidend.
 
 Es stellte sich als etwas herausfordernd dar, der Struktur des Inhaltes und seiner textlichen Darstellung gerecht zu werden. Wo sollte beispielsweise die persönliche Definition von Permakultur hin? Wie können wir vereinfachen und trotzdem die Komplexität der Sache abbilden?
 
@@ -16,4 +18,4 @@ Schwierig war hier, den Flow der Wireframes verständlich darzulegen. Ich könnt
 
 Der nächste Schritt war die Exploration einer grafischen Sprache. Hierzu entwickelte ich [verschiedene Entwürfe](https://cloud.nadineprigann.de/index.php/s/4tdeAd45RopCZAS), die in einem Design Call besprochen wurden.
 
-Dies war auf Grund der Vorarbeit relativ leicht zu vermitteln. Hier sollte aber noch einmal in der Feedbackphase bei Nesrin nachgehakt werden, wie sie diese Phase empfunden hatte.
+Dies war auf Grund der Vorarbeit relativ leicht zu vermitteln. Hier sollte aber noch einmal in der Feedbackphase bei Nesrin nachgehakt werden, wie sie diese Phase empfunden hatte. -->

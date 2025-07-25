@@ -51,7 +51,7 @@ module.exports = {
       },
       {
         text: "Autorin",
-        link: "https://nadineprigann.de"
+        link: "https://www.nadineprigann.de"
       }
       // {
       //   text: 'Language',
@@ -110,22 +110,22 @@ module.exports = {
                 "/documentation/realization/design.md",
                 "/documentation/realization/realization.md"
               ]
-            },
-            {
-              title: "Zelebrieren",
-              collapsable: false,
-              children: ["/documentation/celebration/celebration.md"]
-            },
-            {
-              title: "Tweaking",
-              collapsable: false,
-              children: [
-                "/documentation/tweaking/intro.md",
-                "/documentation/tweaking/zone.md",
-                "/documentation/tweaking/funding.md",
-                "/documentation/tweaking/vision.md"
-              ]
             }
+            // {
+            //   title: "Zelebrieren",
+            //   collapsable: false,
+            //   children: ["/documentation/celebration/celebration.md"]
+            // },
+            // {
+            //   title: "Tweaking",
+            //   collapsable: false,
+            //   children: [
+            //     "/documentation/tweaking/intro.md",
+            //     "/documentation/tweaking/zone.md",
+            //     "/documentation/tweaking/funding.md",
+            //     "/documentation/tweaking/vision.md"
+            //   ]
+            // }
           ]
         }
       ],
