@@ -68,7 +68,7 @@ html,
 .sidebar,
 .home {
   background-color: $bgColor;
-  border-color: $badgeTipColor
+  border-color: $borderColor;
 }
 
 .theme-container,
@@ -86,13 +86,17 @@ html,
   flex-direction: column;
 }
 
+.home .hero .description {
+  color: $textColor !important;
+}
+
 .home .footer {
   border-color: $badgeTipColor !important;
 }
 
 
 .navbar > div.links {
-  background-color: #151515;
+  background-color: $bgColor;
 }
 
 .hero {
@@ -127,9 +131,8 @@ h3 {
 .objectives {
   text-align: center;
   font-weight: bold;
-  color: darken($accentColor, 10%);
+  color: $accentColor;
   padding: 5em;
-
 }
 
  
