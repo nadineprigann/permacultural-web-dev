@@ -29,7 +29,7 @@ body {
   font-family: 'Inter', sans-serif;  
 
   em {
-    color: $textColorDark;
+    color: $textColor;
   }
 }
 
@@ -49,15 +49,15 @@ table {
   
   th:not(:last-of-type),
   td:not(:last-of-type) {
-    border-right: $textColorDark 1px solid;
+    border-right: $textColor 1px solid;
   }
 
    td {
-    border-bottom: $textColorDark 1px dashed;
+    border-bottom: $textColor 1px dashed;
   }
 
   th {
-    border-bottom: $textColorDark 1px solid;
+    border-bottom: $textColor 1px solid;
   }
 }
 
@@ -68,7 +68,7 @@ html,
 .sidebar,
 .home {
   background-color: $bgColor;
-  border-color: $badgeTipColor
+  border-color: $borderColor;
 }
 
 .theme-container,
@@ -86,19 +86,28 @@ html,
   flex-direction: column;
 }
 
+.home .hero .description {
+  color: $textColor !important;
+}
+
 .home .footer {
   border-color: $badgeTipColor !important;
 }
 
 
 .navbar > div.links {
-  background-color: #151515;
+  background-color: $bgColor;
 }
 
 .hero {
   flex: 1;
   flex-direction: column;
   margin-top: 15%;
+}
+
+a:focus-visible {
+  outline: none;
+  text-shadow: 0.15em 0.15em 1em $accentColor;
 }
 
 h1 {
@@ -127,9 +136,8 @@ h3 {
 .objectives {
   text-align: center;
   font-weight: bold;
-  color: darken($accentColor, 10%);
+  color: $accentColor;
   padding: 5em;
-
 }
 
  
